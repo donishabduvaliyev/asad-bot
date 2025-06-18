@@ -2960,7 +2960,7 @@ C) Tezlikni oshirish
 D) Dvigatelni tekshirish
 Answer: B
 
-    Subject: QXTF_TS
+Subject: QXTF_TS
 
 1.  Qishloq xo'jaligi ishlab chiqarishini mexanizatsiyalashtirishning asosiy maqsadi bu qishloq xo'jaligi mahsulotlarini yetishtirishda ......... sarfini kamaytirishdan iborat. 
 A) yoqilgi
