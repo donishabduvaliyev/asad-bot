@@ -1,0 +1,3678 @@
+Subject : Chorvachilik
+
+1.  Chorvachilik fermasi nima? 
+    A) Hayvon saqlanadigan joy
+    B) Hayvonlar boqiladigan bino
+    C) Chorva boqiladigan inshoot
+    D) Mahsuloti yetishtiruvchi qishloq xoʻjaligi korxonasiga
+    Answer: D
+
+2.  Fermalar yoʻnalishiga qarab qanday boʻlinadi? 
+    A) Parranda, qoramol, qoʻychilik
+    B) Bolinmaydi
+    C) Tovar, naslchilik, reproduktivga
+    D) Bosh soniga qarab
+    Answer: C
+
+3.  Tovar fermasining vazifasi nima? 
+    A) Goʻsht, tuxum yetishtirish
+    B) Chorva mahsulotlari yetishtirishga
+    C) Sut, goʻsht, tuxum yetishtirish
+    D) Sut, goʻsht, teri yetishtirish 
+    Answer: B
+
+4.  Kompleks fermadan nima bilan farqlanadi?
+    A) Mahsulot etishtirishi bilan
+    B) Keng ixtisosligi va quvvati bilan
+    C) Mahsulot boʻyicha ixtisosligi bilan
+    D) Tor ixtisosligi va quvvati boʻyicha
+    Answer: D
+
+5.  Komplekslar ishni tashkil etilishiga qarab qanday boʻlinadi? 
+    A) Hayvonlarni xonalarda saqlaydigan
+    B) Toʻla aylanmali, ixtisoslashgani boʻyicha
+    C) Mexanizatsiyalashgan va avtomatlashgan
+    D) Boʻlinmaydi
+    Answer: B
+
+6.  Bir xil turdagi hayvonlar saqlanadigan binolar orasidagi minimal masofa qancha boʻlishi kerak? 
+    A) 50-80 m
+    B) 15-30 m
+    C) 14-70 m
+    D) 80-90 m
+    Answer: B
+
+7.  Pichan gʻarami bilan binolar orasidagi masofa qancha boʻlishi kerak? 
+    A) 80 m
+    B) 59 m
+    C) 100 m
+    D) 60 m
+    Answer: D
+
+8.  Bogʻlab boqilganda bino ichidagi 1 sigirga ajratiladigan yuza qancha? 
+    A) 5,5-8 m$^2$
+    B) 7,5-9,5 m$^2$
+    C) 6,5-7,5 m$^2$
+    D) 10-15 m$^2$
+    Answer: C
+
+9.  Qisqa muddatli pasterizatsiyalanganda sut qancha gradusga qizdiriladi? 
+    A) 80⁰
+    B) 71⁰
+    C) 85⁰
+    D) 72⁰
+    Answer: D
+
+10. Bogʻlamasdan boqilganda bino ichidagi 1 sigirga ajratilgan maydon yuzasi qancha? 
+    A) 3-10 m$^2$
+    B) 7-10 m$^2$
+    C) 15-20 m$^2$
+    D) 4-5 m$^2$
+    Answer: D
+
+11. Qaysi ozuqa konsentrat ozuqaga kiradi? 
+    A) Silos, senaj
+    B) Koʻk oʻt
+    C) Kunjara
+    D) Somon, pichan
+    Answer: C
+
+12. Mashina deb qanday qurilmaga aytiladi? 
+    A) Turli energiyani mexanik energiyaga oʻzgartirish uchun xizmat qiladi
+    B) Materiali sifatida koʻchiriluvchi predmet tushuniladi va uning faqat holati oʻzgartiriladi
+    C) Energiya, material yoki ma'lumotlarni oʻzgartirish uchun aniq yoʻnaltirilgan harakatlarni bajaruvchi bir qancha mexanizmlarga
+    D) Material sifatida ishlov beriluvchi predmet (mehnat obyekti) tushuniladi
+    Answer: C
+
+13. Bolgʻachali don maydalagichning asosiy ishchi organi qaysi? 
+    A) Filtr, siklon
+    B) Bolgʻachalar
+    C) Transporter
+    D) Pichoqlar
+    Answer: B
+
+14. Texnologik mashina deb qanday qurilmalarga aytiladi? 
+    A) Material sifatida koʻchiriluvchi predmet tushuniladi va uning faqat holati oʻzgartiriladi
+    B) Suyuq va gaz holati boʻlishi mumkin. Bunday mashinalarda materialning shakli, xossasi va holati oʻzgartiriladi 
+    C) Turli energiyani mexanik energiyaga oʻzgartirish uchun xizmat qiladi
+    D) Material sifatida ishlov beriluvchi predmet (mehnat obyekti) tushuniladi va u qattiq, suyuq va gaz holatiga
+    Answer: D
+
+15. Transport mashinalari deb qanday qurilmalarga aytiladi? 
+    A) Suyuq va gaz holati boʻlishi mumkin
+    B) Energiya, material yoki ma'lumotlarga aytiladi
+    C) Materiali sifatida koʻchiriluvchi predmet tushuniladi va uning faqat holati oʻzgartirilgan
+    D) Turli energiyani mexanik energiyaga oʻzgartirish uchun xizmat qiladi
+    Answer: C
+
+16. Bosh rejaning qurilish koeffitsiyenti qanday topiladi? 
+    A) Yoʻllar va binolar egallagan joy
+    B) Maydonchalar egallagan joyning umumiy yer maydoni nisbati
+    C) Binolar egallagan joyning umumiy yer maydoni nisbatiga
+    D) Yoʻq
+    Answer: C
+
+17. Qoʻychilikda necha xil boqish sistemasi mavjud? 
+    A) 5
+    B) 7
+    C) 3
+    D) 4
+    Answer: D
+
+18. Mulk shakliga koʻra hozirgi paytda fermalar necha turga boʻlinadi? 
+    A) 5
+    B) 3
+    C) 6
+    D) 4
+    Answer: D
+
+19. Sut tovar fermasining bosh loyihasida umumiy yer maydoni nimaga qarab aniqlaniladi? 
+    A) Jami mahsulot beruvchi hayvonlar soniga qarab
+    B) Sigirlar soniga qarab, yoki asosiy mahsulot beruvchi hayvonlar soniga qarab
+    C) Boqish yoki asosiy mahsulot usuliga qarab
+    D) Mahsuldorligiga yoki asosiy mahsulot beruvchi hayvonlar soniga qarab
+    Answer: B
+
+20. Fermalardagi mexanizatsiyalashish darajasi? 
+    A) Mashina va mexanizmlarning koʻpligi
+    B) Jami ishlarning mexanizatsiyalashgan ishlar nisbati
+    C) Jami mexanizatsiyalashgan ishlar miqdori
+    D) Mexanizatsiyalashipilgan ishlarning jami ishlarga nisbati foizda
+    Answer: D
+
+21. KDU-2 mashinasida bolgʻacha rotorga qanday oʻrnatilgan? 
+    A) Qotirilgan
+    B) Shlitsa yordamida
+    C) Erkin
+    D) Kavsharlangan
+    Answer: C
+
+22. Chorvachilik kompleksi fermadan qaysi koʻrsatkichiga koʻra farq qiladi? 
+    A) Mahsulot avtomatlashgan va sanoat asosida ishlab chiqarishning joriy etilganligi
+    B) Yuqori darajada mexanizatsiyalashgan va avtomatlashgan
+    C) Sanoat asosida ishlab chiqarishning joriy etilganligi
+    D) Mahsulot turi, yuqori darajada mexanizatsiyalashgan va avtomatlashgan, Sanoat asosida ishlab chiqarishning joriy etilganligiga
+    Answer: D
+
+23. Chorvachilik fermalarining vazifasi? 
+    A) Hayvonlarni koʻpaytirish
+    B) Hayvonlarni saqlash, koʻpaytirish
+    C) Hayvonlarni saqlash, oʻstirish va mahsulot ishlab chiqarish
+    D) Hayvonlarni saqlash
+    Answer: C
+
+24. KDU-2 mashinasida donni maydalagich katta-kichikligi qanday sozlanadi? 
+    A) Ventilyator yordamida
+    B) Sozlanmaydi
+    C) Qoʻl bilan
+    D) Toʻr toʻsiqni almashtirib
+    Answer: D
+
+25. Yanchish mashinalarida qanaqa bolgʻachalar ishlatiladi? 
+    A) Rotorga kavsharlangan
+    B) Yogʻochdan, ikki tomonlam
+    C) Diskali ikki tomonlama
+    D) Bir tomonlama, ikki tomonlama va pogʻonali
+    Answer: D
+
+26. Maydalangan don sifati qaysi kriteriyalar bilan baholanadi? 
+    A) Solishtirib, ekvivalent diametr 
+    B) Solishtirma yuza, maydalanish darajasi va ekvivalent diametr
+    C) Klassifikatorda oʻlchab, elab
+    D) Tarozida tortib
+    Answer: B
+
+27. Presslangan holda pichan tayyorlash qanday qulayliklar tugʻdiradi?
+    A) Bu usulda pichan tayyorlanganda isrofgarchilik kamayadi va uning sifatli boʻlishi ta'minlanadi
+    B) Bu usulda transport xarajatlari va saqlash hajmi 3-2,5 marta kamayadi
+    C) Bu usulda pichan tayyorlanganda isrofgarchilik kamayadi va uning sifatli boʻlishi ta'minlanadi, transport xarajatlari va saqlash hajmi 2-2,5 marta kamayadi
+    D) Bu usulda uning sifatli boʻlishi ta'minlanadi, transport xarajatlari va saqlash hajmi 1-2,5 marta kamayadi
+    Answer: C
+
+28. Maydalangan holda pichan tayyorlash texnologiyasi qanday amalga oshiriladi? 
+    A) Oʻrish, yigʻishtirish, maydalash, tashish, saqlash, shamollatish
+    B) Oʻrish, valik holiga keltirish, yigʻishtirish, maydalash, tashish, saqlash, shamollatish
+    C) Oʻrish, ezish, quritish, agʻdarish, valik holiga keltirish, yigʻishtirish, maydalash, tashish, saqlash va shamollatish
+    D) Oʻrish, ezish, quritish, agʻdarish, yigʻishtirish, maydalash
+    Answer: C
+
+29. Dagʻal ozuqalarni kesish turlari? 
+    A) Ezish, ishqalab
+    B) Chopish, qiya kesish va sirpanma kesish
+    C) Yanchish, kesish
+    D) Yorib kesish
+    Answer: B
+
+30. Qanday maqsadda oʻtlarni pichanga oʻrish bilan birga poyalar ezib ketiladi? 
+    A) Oʻtlarni quritishini tezlatish, ozuqani saqlash muddatini oshirish maqsadida
+    B) Oʻrilgan massani bir tekis qurishi va toʻyimli moddalarni saqlanishi va yigʻim muddatlarini kamaytirish. 
+    C) Oʻtlarni oʻrim muddatlarini qisqartirish, toʻyimli moddalarni saqlash maqsadida
+    D) Oʻtlarni oʻrim muddatlarini kamaytirish, ozuqa sifatini oshirish uchun
+    Answer: B
+
+31. Quritilgan dagʻal ozuqalarning namligi necha % dan oshmasligi kerak? 
+    A) 16
+    B) 18
+    C) 14
+    D) 15
+    Answer: D
+
+32. Lavlagi qaysi turdagi ozuqaga kiradi? 
+    A) Shifobaxsh
+    B) Koʻk massa
+    C) Dagʻal
+    D) Ildizmevaliga
+    Answer: D
+
+33. Ekvivalent diametr deb nimaga aytiladi? 
+    A) 1 ta donni diametri
+    B) Hajmi haqiqiy donning hajmiga teng sharning diametriga
+    C) Namunadagi donlarning diametri
+    D) 10 ta donni diametri
+    Answer: B
+
+34. Silos tayyorlash qaysi usulda ozuqalarni tayyorlashga kiradi? 
+    A) Kimyoviy
+    B) Mexanik
+    C) Biologik
+    D) Issiqlik
+    Answer: C
+
+35. Ildiz mevali ozuqalarni yuvishda qanaqa konstruksiyali mashinalar ishlatiladi? 
+    A) Shnekli, pichoqsiz
+    B) Diskali, barabanli va markazdan qochma
+    C) Shnekli, pichoqli
+    D) Parrakli
+    Answer: B
+
+36. Siloslanadigan muhit qanday boʻlishi kerak? 
+    A) Vakuumli
+    B) Bosimli
+    C) Aerobli
+    D) Anaerobli
+    Answer: D
+
+37. Silosni zichlashda eng yaxshi traktor qaysi turdagisi hisoblanadi? 
+    A) Egiluvchi
+    B) Keng gʻildirakli
+    C) Gʻildirakli
+    D) Zanjirli palamali
+    Answer: D
+
+38. Ildizmevali ozuqalarni kesishda qanaqa konstruksiyali mashinalardan foydalaniladi? 
+    A) Shnekli, pichoqsiz
+    B) Koʻp pichoqli, bolgʻachali
+    C) Diskali, barabanli va markazdan qochma
+    D) Shnekli, pichoqli
+    Answer: C
+
+39. Qaysi mashinalar donni yanchishga moʻljallangan? 
+    A) IKM-5, RSS-6
+    B) DB-5, KDU-2
+    C) IGK-5, RSS-6
+    D) IKS-5, KS-1,5
+    Answer: B
+
+40. Qaysi mashinada dagʻal ozuqalar maydalanadi? 
+    A) IZM-30
+    B) IKS-5
+    C) KS-5
+    D) RSS-6B
+    Answer: D
+
+41. Qaysi mashina dagʻal ozuqani kesib maydalaydi? 
+    A) IGK-30
+    B) IKS-5
+    C) RSS-6
+    D) DB-5
+    Answer: C
+
+42. Qaysi mashina ozuqani aralashtirib tarqatadi? 
+    A) KTU-10
+    B) IKM-5
+    C) KS-1,5
+    D) DB-5
+    Answer: C
+
+43. Qaysi mashina universal mashina hisoblanadi? 
+    A) DB-5
+    B) IKM-5
+    C) AD-100
+    D) KDU-2
+    Answer: D
+
+44. Qaysi mashinaga barabanli maydalagich qoʻyilgan? 
+    A) IKM-5
+    B) Volgar-5
+    C) IGK-30
+    D) MRK-5
+    Answer: A
+
+45. Qaysi maydalagichda maydalash qoʻzgʻalmas pichoq bilan bajariladi? 
+    A) IKS-5
+    B) DB-5
+    C) IGK-30
+    D) MRK-5
+    Answer: D
+
+46. Nima uchun ozuqalar aralashtirilib beriladi? 
+    A) Kam transportyor vositasi talab etiladi
+    B) Tarqatishni mexanizatsiyalash uchun
+    C) Ozuqani suyultirib, kam sarflash uchun
+    D) Ozuqaning hazm boʻlishini, ta'mini yaxshilash va mahsuldorligini oshirish uchun
+    Answer: D
+
+47. Qanaqa ozuqa aralashtirgichlar boʻladi? 
+    A) Dagʻal ozuqalar uchun
+    B) Donli ozuqalar uchun
+    C) Shirali ozuqalar uchun
+    D) Quruq, suyuq va xamir koʻrinishidagi ozuqalar uchun
+    Answer: D
+
+48. Meyorlagichlar nima uchun ishlatiladi? 
+    A) Suvlash uchun
+    B) Maydalash uchun
+    C) Aralashtirish uchun
+    D) Komponentlarni ma'lum miqdorda oʻlchab berish uchun
+    Answer: D
+
+49. Ishni tashkil etilishiga qarab qanaqa meyorlagichlar boʻladi? 
+    A) Harakatlanmaydigan
+    B) Harakatlanadigan uzlukli
+    C) Oʻlchamsiz
+    D) Davriy va uzluksiz harakatli
+    Answer: D
+
+50. Suv qizdirgich rusumini aniqlang? 
+    A) KDU-2
+    B) RMM-5
+    C) VET-200
+    D) TSN-3
+    Answer: C
+
+51. Elektr kalorifer qurilmalari vazifasi nimadan iborat? 
+    A) Xonalardan havoni soʻrib chiqarishda ishlatiladi
+    B) Chorvachilik binolarini shamollatishda qoʻllaniladi
+    C) Chorvachilik binolarini isitishda va shamollatishda keng qoʻllaniladi
+    D) Xinalarga havoni haydab kiritishda ishlatiladi
+    Answer: C
+
+52. Elektr energiyasining sifati qanday kattaliklar bilan baholanadi? 
+    A) Istemolchilarning tarmoq yoki boʻlib joylashganligiga qarab
+    B) Transformator podstansiyasi quvvati bilan
+    C) Tarmoq orqali oqadigan toʻla tok bilan
+    D) Kuchlanish va chastota miqdori, kuchlanishlari nosimmetrik darajasi bilan
+    Answer: D
+
+53. Qaysi mashinalarda ozuqalarga termik ishlov beriladi? 
+    A) KV-300
+    B) RSS-6
+    C) S-12
+    D) KS-1,5
+    Answer: C
+
+54. Bir ozuqa birligi sifatida qaysi ozuqaning quvvati qabul qilingan? 
+    A) Arpa
+    B) Suli
+    C) Bugʻdoy
+    D) Makka joʻxori
+    Answer: B
+
+55. Poxol-silos qirqgʻichning markasini aniqlang? 
+    A) DDT
+    B) APS 6,0
+    C) RSS-6
+    D) PK-6
+    Answer: C
+
+56. Tuganak ildizmeva yuvgichlar ish organlarining konstruksiyasi qanaqa? 
+    A) Pichoqli, korakchali, shnekli
+    B) Kulakli, barabanli, diskli va shnekli
+    C) Kulakli, zarbli shnekli
+    D) Diskli, barabanli, bolgʻali
+    Answer: B
+
+57. Ozuqa tayyorlashda tarelkali meyorlagichlar qoʻllaniladimi? 
+    A) Oziqlantirishda
+    B) Yoʻq
+    C) Suyuq ozuqalar uchun
+    D) Ha
+    Answer: D
+
+58. S-2, S-7, S-12 qurilmalarida raqami nimani bildiradi? 
+    A) Unumdorlik
+    B) Modifikatsiyasi
+    C) Yuzasi
+    D) Qurilma sigʻimini
+    Answer: D
+
+59. SM-1,7 rusumli qurilma ozuqa sexlarida qanday ishlarni bajaradi? 
+    A) Bugʻlatgich-aralashtirgich
+    B) Magnitli separator
+    C) Melassa va karbamidni suv bilan aralashtirish
+    D) Silos, senaj aralashtirgich hamda qabul qilgich
+    Answer: C
+
+60. KDU-2 rusumli qurilmasida qanday ishning texnologik jarayonlari bor? 
+    A) Sochi-lmaydigan donli ozuqalarni maydalash, hol ozuqalarni qirqish va maydalash
+    B) Sochi-ladigan donli ozuqalarni magnit separator va galvirdan oʻtkazish
+    C) Sochi-ladigan donli ozuqalarni maydalash, qirqish, aralashtirish, namlash
+    D) Hol ozuqalarni parchalash va oqlash, maydalash va aralashtirish
+    Answer: A
+
+61. Dagʻal ozuqalarni tayyorlash texnologiyasi? 
+    A) Qirqish-bugʻlash-miqdorlash-aralashtirishga
+    B) Miqdorlash-qirqish-aralashtirish
+    C) Qirqish-miqdorlash-aralashtirish
+    D) Qirqish-ezish-aralashtirish
+    Answer: A
+
+62. Bolgʻali maydalagich rusumini toping? 
+    A) IKM-5
+    B) IKS-5M
+    C) S-12
+    D) KDU-2
+    Answer: D
+
+63. MAS rusumli qurilmaning vazifasini aniqlang? 
+    A) Somon maydalash
+    B) Sut separatori
+    C) Magnitli separator
+    D) Maydalagich
+    Answer: C
+
+64. Shnekli yuvgich maydalagichning rusumini aniqlang? 
+    A) KPI-4, IKM-5
+    B) MRK-5, IKS-5M
+    C) IKM-5, IKS-5M
+    D) KPI-4, IKM-5
+    Answer: C
+
+65. C-12 rusumli qurilmani aniqlang? 
+    A) Silos-maydalagich
+    B) Bolgʻali maydalagich
+    C) Qaynatish qozoni
+    D) Bugʻlagich-aralashtirgich
+    Answer: D
+
+66. LOS-1 markali texnologik qurilmasi qanday ozuqaga ishlov beradi? 
+    A) Silos
+    B) Somonga
+    C) Lavlagi
+    D) Senaj
+    Answer: B
+
+67. Erkin zarb bilan maydalash (yanchish) usulida qanday maydalagichlar qoʻllaniladi? 
+    A) Diskli
+    B) Tirsakli
+    C) Shnekli
+    D) Bolgʻali
+    Answer: D
+
+68. Omuxta yem tayyorlashda komponentlar miqdori qanaqa uskunalar bilan rostlanadi? 
+    A) Tarozi bilan
+    B) Mashinada
+    C) Oʻlchab
+    D) Meyorlagichlar bilan
+    Answer: D
+
+69. IKM-5 rusumli qurilmasi qanday ishlar uchun moʻljallangan? 
+    A) Bugʻlagich-aralashtirgich
+    B) Magnitli separator
+    C) Poxol-silo qirqqichi
+    D) Ildiz-mevalarni yuvishga
+    Answer: D
+
+70. EM, SE va BSE rusumli separatorlar qanday turlarga kiradi? 
+    A) Elektromagnit lentali
+    B) Oʻzgaruvchan magnitli trubali
+    C) Ozgʻarmas magnitli, lentaviy
+    D) Elektromagnit barabanli separatorga
+    Answer: D
+
+71. IGK-30 qaysi turdagi ozuqalarni qayta ishlaydi? 
+    A) Kimyoviy qoʻshimchilar
+    B) Ildiz mevali
+    C) Silos, senaj
+    D) Dagʻal ozuqalarni
+    Answer: D
+
+72. Ozuqa tarqatgichlar qanday tavsiflanadi? 
+    A) Vertikal, gorizontal
+    B) Dvigatelli, dvigatelsiz
+    C) Tavsiflanmaydi
+    D) Turgʻun va koʻchma
+    Answer: D
+
+73. IKS-5 mashinasi qaysi turdagi ozuqalarga ishlov beradi? 
+    A) Dagʻal ozuqa
+    B) Silos
+    C) Donli
+    D) Ildizmevali ozuqalarga
+    Answer: D
+
+74. IRT-165 qaysi turdagi ozuqalarni qayta ishlaydi? 
+    A) Kimyoviy qoʻshimchalar
+    B) Ildizmevali
+    C) Silos, senaj
+    D) Dagʻal ozuqalarni
+    Answer: D
+
+75. Ishqalanish koeffitsiyenti qanday aniqlanadi? 
+    A) Upunma kuch orqali
+    B) Normal kuch orqali
+    C) Normal va upunma kuch koʻpaytmasi
+    D) Urunma kuchning tik kuchga nisbati
+    Answer: D
+
+76. Qaysi mashinada ozuqa tarqatiladi? 
+    A) S-12, IGK-30
+    B) KTU-10, RMM-5
+    C) DB-5, IRT-165
+    D) AKN-2, KDU-2
+    Answer: B
+
+77. Qaysi mashina dagʻal ozuqalarni maydalashga moʻljallangan? 
+    A) ISK-5
+    B) KPI-0,5
+    C) KS-2,1
+    D) IGK-30
+    Answer: D
+
+78. KDM-2 qanday maydalagich? 
+    A) Bolgʻachali ochik
+    B) Bolgʻachali yirik turdagi
+    C) Ikki bosqichli
+    D) Gorizontal variantli
+    Answer: B
+
+79. KDU-2 qanday maydalagich? 
+    A) Ikki etapli
+    B) Bolgʻachali
+    C) Gorizontalli
+    D) Aylanuvchi tishli
+    Answer: B
+
+80. Kesish jarayoni qanaqa jarayon? 
+    A) Aralashtirish
+    B) Sindirish
+    C) Pichoq bilan materialga nisbatan ma'lum burchakda ta'sir etish
+    D) Yanchish
+    Answer: C
+
+81. Qoramollar uchun dagʻal ozuqalarning oʻrtacha oʻlchamlari qancha boʻlishi kerak? 
+    A) 50-60 mm
+    B) 60-65 mm
+    C) 30-40 mm
+    D) 40-50 mm
+    Answer: D
+
+82. Qoramollarni saqlash usuli necha xil boʻladi? 
+    A) 3
+    B) 4
+    C) 5
+    D) 2
+    Answer: D
+
+83. Qanday texnologik tizimda rostlovchi mahsulot nolga teng? 
+    A) Uzluksiz texnologik tizimda
+    B) Uzlukli texnologik tizimda
+    C) Bir tekisda uzluksiz texnologik tizimda
+    D) Istemol oqimi unumliroq texnologik tizimda
+    Answer: D
+
+84. Maydalash deb nimaga aytiladi? 
+    A) Ozuqalarning tarkibini tashqi kuch yordamida oʻzgartiradi
+    B) Ozuqalarning texnologiyasini tartibli boʻlishini ta'minlaydi
+    C) Ozuqalarga shakl berish va tartibga solish va tarqatish
+    D) Ozuqalarni oʻlchamlarini va fizik-mexanik xususiyatlarini tashqi kuch yordamida oʻzgartiradi
+    Answer: D
+
+85. Kunjara qaysi xildagi ozuqaga kiradi? 
+    A) Dagʻal
+    B) Shirali
+    C) Konsentrlangan
+    D) Quritilgan
+    Answer: C
+
+86. Ozuqalarni maydalash nima uchun bajariladi? 
+    A) Ozuqalarni toʻyimli qiladi
+    B) Ozuqa birligini oshiradi
+    C) Ozuqalarning toʻyimli moddalaridan toʻliqroq foydalanishni ta'minlaydi
+    D) Ozuqalarni massasini koʻpaytiradi
+    Answer: C
+
+87. KTU-10 ozuqa tarqatgichda ozuqa meyori nima bilan sozlanadi? 
+    A) Tasma yordamida
+    B) Qoʻl bilan
+    C) Transportyor bilan
+    D) Xrapovoy mexanizm bilan
+    Answer: D
+
+88. Ezib maydalash usuli qanaqa? 
+    A) Hajmsiz differensiyalanadi
+    B) Oldindan tekshirib
+    C) Ta'sir kuchi yordamida materialning butun hajmi differensiyalanadi
+    D) Tekshirmasidan
+    Answer: C
+
+89. Sirpanib kesishda sirpanish burchagi ishqalanish burchagidan? 
+    A) Kichik
+    B) Teng
+    C) Nolga teng
+    D) Katta boʻladi
+    Answer: D
+
+90. Poyali ozuqalarni qaysi kesish usuli eng yaxshi hisoblanadi? 
+    A) Tik
+    B) Qiya
+    C) Sirpanish
+    D) Etapli
+    Answer: C
+
+91. Chorvachilikdagi ozuqalar kelib chiqishiga qarab necha turga boʻlinadi? 
+    A) 5
+    B) 2
+    C) 6
+    D) 3
+    Answer: D
+
+92. Shnekli dozatorlar qanday usulda ishlaydi? 
+    A) Ogʻirligiga qarab uzlukli
+    B) Apalashtirib uzlukli
+    C) Ogʻirligi boʻyicha, apalashtirib uzluksiz
+    D) Ogʻirligiga qarab uzluksiz
+    Answer: C
+
+93. Tarelkali dozator materiallarini qanday usulda ajratadi? 
+    A) Hajmli, uzluksiz
+    B) Hajmiga qarab uzlukli
+    C) Ogʻirligiga qarab uzluksiz
+    D) Ogʻirlikka qarab uzlukli
+    Answer: C
+
+94. Tarelkali dozatorning meyorlash normasi qanday rostlanadi? 
+    A) Tarelkaning qiyaligini oshirish
+    B) Kojuxning tezligini oʻzgartirish
+    C) Apalashtirgichning tezligini oshirish
+    D) Silindr va kojux oraligʻi tirqishini oʻzgartirish
+    Answer: D
+
+95. Spiralli transportyorli tarqatgichlar qaysi fermalarga moʻljallangan? 
+    A) Choʻchqachilik
+    B) Qoramolchilik
+    C) Yilqichilik
+    D) Parrandachilik
+    Answer: D
+
+96. OGM-0,8 agregati nima ish bajaradi? 
+    A) Dagʻal oziqalarni bugʻlaydi
+    B) Sun'iy sut tayyorlagich
+    C) Shirali ozuqa tayyorlash liniyasi
+    D) Granulli ozuqa tayyorlash uchun
+    Answer: D
+
+97. OGM-0,8, OGM-1,5 granulyatorida valik va matritsa orasidagi zahar qancha boʻlishi kerak? 
+    A) 0,1...0,2
+    B) 0,5...0,7
+    C) 1,0...1,5
+    D) 0,2...0,5
+    Answer: D
+
+98. OGM-1,5 granulyatorida matritsa va valik orasidagi masofa qanday rostlanadi? 
+    A) Matritsa almashtirish
+    B) Valni almashtirish
+    C) Valni siljitish bilan
+    D) Matritsani surish
+    Answer: C
+
+99. Ozuqalarni qayta tayyorlashda qaysi kesish usulida eng koʻp energiya sarflaydi? 
+    A) Qiya kesish
+    B) Tik normal kesishda
+    C) Sirpanib kesish
+    D) Etapli kesish
+    Answer: B
+
+100. Omixta yem standart boʻyicha maydalanish moduliga koʻra necha turga boʻlinadi? 
+    A) 5
+    B) 2
+    C) 4
+    D) 3
+    Answer: D
+
+101. OPK-2 agregat nima ish bajaradi? 
+    A) Shirali ozuqa liniyasi
+    B) Ozuqa bugʻlatgichi
+    C) Sun'iy sut tayyorlagich
+    D) Granulli ozuqa tayyorlaydi
+    Answer: D
+
+102. OSK tipidagi ozuqa sexlari qaysi maqsadda ishlatiladi? 
+    A) Silos pastasini tayyorlash
+    B) Vitaminli un tayyorlash
+    C) Granulli ozuqa tayyorlash
+    D) Aralashtirilgan omuxta yem tayyorlashga
+    Answer: D
+
+103. Presslash deb nimaga aytiladi? 
+    A) Materiallarni kesishda
+    B) Materiallarni maydalashda
+    C) Materiallarni aralashtirishda
+    D) Yirik kamerada mahsulotlarni zichlashga
+    Answer: D
+
+104. KTU-3 mashinasi nima ish bajaradi? 
+    A) Hayvonlarni sugʻoradi
+    B) Sutga ishlov berish
+    C) Ozuqani maydalaydi
+    D) Ozuqa tarqatadi
+    Answer: D
+
+105. Qoʻyni junini olish uchun qanaqa sexlar mavjud? 
+    A) KTO-2, VSS-2
+    B) KTO-4, VSS-4
+    C) KTO-10, VS-10
+    D) KTO-24, VSS-24
+    Answer: D
+
+106. Eng yuqori unumdorlikka ega boʻlgan bugʻ qozoni? 
+    A) KM-1600
+    B) KV-300
+    C) KV-500
+    D) D-721
+    Answer: D
+
+107. MSO-77B qirqish mashinasi qaysi agregatlar tarkibiga kiradi? 
+    A) KTO-24
+    B) ESA1D
+    C) ESA6/200, ESA12/200
+    D) ESA12/200
+    Answer: B
+
+
+    Subject : melioratsiya
+
+1.  Melioratsiya deganda nimani tushunasiz? 
+    A) Tuproq unumdorligini oshirishga qaratilgan tadbirlar majmui 
+    B) Sug'orish va drenajlash ishlarini amalga oshirish 
+    C) Yerlarni madaniylashtirish va ularning meliorativ holatini yaxshilashga qaratilgan kompleks chora-tadbirlar 
+    D) Tuproqni eroziyadan himoya qilish 
+    Answer: C
+
+2.  Melioratsiya mashinalari necha guruhga bo'linadi? 
+    A) 2 
+    B) 3 
+    C) 4 
+    D) 5 
+    Answer: B
+
+3.  Melioratsiya mashinalarining asosiy vazifasi nima? 
+    A) Yer osti suvlarini boshqarish 
+    B) Tuproq unumdorligini oshirish 
+    C) Qishloq xo'jaligi yerlarining meliorativ holatini yaxshilash uchun mexanizatsiyalashgan ishlarni bajarish 
+    D) Yerlarni ekin ekishga tayyorlash 
+    Answer: C
+
+4.  Kanal qazish mashinalari qanday ishlaydi? 
+    A) Tuproqni shudgorlash orqali 
+    B) Tuproqni qirqib, chiqarib tashlash orqali 
+    C) Tuproqni siqish orqali 
+    D) Tuproqni aralashtirish orqali 
+    Answer: B
+
+5.  Kanal qazish mashinalarining turlari? 
+    A) Bir kovshli, ko'p kovshli 
+    B) Rotorli, zanjirli, frezali 
+    C) Ekskavatorlar, greyderlar, skreperlar 
+    D) A va B javoblar to'g'ri 
+    Answer: D
+
+6.  Qaysi kanal qazish mashinasi yirik kanallarni qazish uchun ishlatiladi? 
+    A) Zanjirli ekskavator 
+    B) Rotorli ekskavator 
+    C) Bir kovshli ekskavator 
+    D) Frezali kanal qazish mashinasi 
+    Answer: B
+
+7.  Drenajlash ishlari nima uchun amalga oshiriladi? 
+    A) Tuproqni namlash uchun 
+    B) Yer osti suv sathini pasaytirish va tuproqni sho'rlanishdan saqlash uchun 
+    C) Tuproqqa ozuqa moddalarini kiritish uchun 
+    D) Ekinlarni sug'orish uchun 
+    Answer: B
+
+8.  Drenajlash mashinalarining asosiy turi? 
+    A) Greyderlar 
+    B) Drenaj qazish mashinalari (drenoukladchiki) 
+    C) Skreperlar 
+    D) Buldozerlar 
+    Answer: B
+
+9.  Drenaj qazish mashinasi qanday ish organiga ega? 
+    A) Kovsh 
+    B) Zanjir yoki rotor 
+    C) Pichoq 
+    D) Gʻildirak 
+    Answer: B
+
+10. Yer tekislash mashinalari nima uchun ishlatiladi? 
+    A) Tuproqni haydash uchun 
+    B) Sug'orish va boshqa agrotexnik tadbirlar uchun yer yuzasini tekislash va nishablikni hosil qilish uchun 
+    C) Ekin ekish uchun 
+    D) Hosilni yig'ish uchun 
+    Answer: B
+
+11. Yer tekislash mashinalarining asosiy turlari? 
+    A) Ekskavatorlar 
+    B) Greyderlar, skreperlar, buldozerlar 
+    C) Frezalar 
+    D) A va C javoblar to'g'ri 
+    Answer: B
+
+12. Skreper nima uchun mo'ljallangan? 
+    A) Tuproqni qazish va yig'ish uchun 
+    B) Tuproqni tekislash va tashish uchun 
+    C) Tuproqni aralashtirish uchun 
+    D) Tuproqni zichlash uchun 
+    Answer: B
+
+13. Greyder nima uchun ishlatiladi? 
+    A) Tuproqni qazish uchun 
+    B) Kichik hajmdagi yer tekislash ishlari va yo'l qurilishi uchun 
+    C) Tuproqni tashish uchun 
+    D) Tuproqni yumshatish uchun 
+    Answer: B
+
+14. Buldozerning asosiy ish organi nima? 
+    A) Kovsh 
+    B) Pichoq 
+    C) Zanjir 
+    D) Rotor 
+    Answer: B
+
+15. Tuproqni zichlash mashinalari qaysi melioratsiya ishlarida qo'llaniladi? 
+    A) Sug'orishda 
+    B) Kanal va drenajlar qurilishida, to'g'onlar barpo etishda 
+    C) Tuproqni haydashda 
+    D) Ekin ekishda 
+    Answer: B
+
+16. Tuproqni zichlash mashinalarining turlari? 
+    A) Kovshli, pichoqli 
+    B) Gʻildirakli, zanjirli 
+    C) Valiklar, titrama (vibratsion) zichlagichlar 
+    D) Rotorli, frezali 
+    Answer: C
+
+17. Suv chiqarish stansiyalari nima uchun xizmat qiladi? 
+    A) Suvni tahlil qilish uchun 
+    B) Qishloq xo'jaligi ehtiyojlari uchun suvni manbadan iste'molchiga yetkazib berish, shuningdek, ortiqcha suvlarni chiqarib tashlash 
+    C) Suvni tozalash uchun 
+    D) Suvni isitish uchun 
+    Answer: B
+
+18. Nasos stansiyalarining turlari? 
+    A) Bir bosqichli, ko'p bosqichli 
+    B) Statsionar, ko'chma 
+    C) Markazdan qochma, o'qli 
+    D) Barcha javoblar to'g'ri 
+    Answer: D
+
+19. Melioratsiya ishlarida eng ko'p qo'llaniladigan nasos turi? 
+    A) O'qli nasos 
+    B) Markazdan qochma nasos 
+    C) Porshenli nasos 
+    D) Vintli nasos 
+    Answer: B
+
+20. Sug'orish tizimlari necha turga bo'linadi? 
+    A) 2 
+    B) 3 
+    C) 4 
+    D) 5 
+    Answer: B
+
+21. An'anaviy sug'orish usuli? 
+    A) Tomchilatib sug'orish 
+    B) Yomg'irlatib sug'orish 
+    C) Egatlab sug'orish 
+    D) Yer ostidan sug'orish 
+    Answer: C
+
+22. Yomg'irlatib sug'orish mashinalarining afzalligi nimada? 
+    A) Suv sarfi yuqori 
+    B) Eroziya xavfi yuqori 
+    C) Suvdan samarali foydalanish va tuproq eroziyasining oldini olish 
+    D) Qo'l mehnati talab qilinadi 
+    Answer: C
+
+23. Tomchilatib sug'orish tizimining asosiy qismi? 
+    A) Nasos 
+    B) Quvurlar va tomizgichlar 
+    C) Filtr 
+    D) Suv ombori 
+    Answer: B
+
+24. Melioratsiya ishlarida gidrotexnik inshootlarining ahamiyati nimada? 
+    A) Ekinlarni himoya qilish 
+    B) Suv resurslarini boshqarish, suvni taqsimlash va nazorat qilish 
+    C) Tuproqni qayta ishlash 
+    D) Havoni tozalash 
+    Answer: B
+
+25. Melioratsiya ishlarida geodeziya asboblarining o'rni? 
+    A) Tuproq tarkibini aniqlash 
+    B) Yer relyefini o'lchash, loyihalash va melioratsiya inshootlarini qurishda aniqlikni ta'minlash 
+    C) Suv sathi o'lchash 
+    D) Havo namligini o'lchash 
+    Answer: B
+
+26. Lazerli tekislash tizimlari nima uchun ishlatiladi? 
+    A) Tuproqni shudgorlash uchun 
+    B) Yer yuzasini yuqori aniqlikda tekislash uchun 
+    C) Suv sathi monitoringi uchun 
+    D) O'simliklarni o'lchash uchun 
+    Answer: B
+
+27. Melioratsiya texnikasini tanlashda qanday omillar hisobga olinadi? 
+    A) Tuproq turi, bajariladigan ish hajmi, moliyaviy imkoniyatlar 
+    B) Ob-havo sharoiti 
+    C) Ekin turi 
+    D) Faqat mashinaning narxi 
+    Answer: A
+
+28. Melioratsiya mashinalarining texnik xizmat ko'rsatishining ahamiyati? 
+    A) Faqat pul tejash uchun 
+    B) Mashinalarning uzoq muddat ishlashi, samaradorligini oshirish va nosozliklarning oldini olish uchun 
+    C) Mashinaning tashqi ko'rinishini yaxshilash uchun 
+    D) Mashina operatorining malakasini oshirish uchun 
+    Answer: B
+
+29. Zamonaviy melioratsiya texnikasida qanday texnologiyalar qo'llaniladi? 
+    A) Faqat mexanik tizimlar 
+    B) Avtomatlashtirish, GPS tizimlari, masofaviy boshqaruv 
+    C) Faqat qo'l mehnati 
+    D) Bug' dvigatellari 
+    Answer: B
+
+30. Melioratsiya ishlarining atrof-muhitga ta'siri qanday bo'lishi mumkin? 
+    A) Faqat ijobiy ta'sir 
+    B) Tuproq degradatsiyasi, suv resurslarining ifloslanishi (noto'g'ri bajarilganda) 
+    C) Faqat salbiy ta'sir 
+    D) Atrof-muhitga ta'siri yo'q 
+    Answer: B
+
+31. Melioratsiya mashinalarining samaradorligini oshirish yo'llari? 
+    A) Eski mashinalardan foydalanish 
+    B) Texnik xizmat ko'rsatishni kamaytirish 
+    C) Zamonaviy texnologiyalarni joriy etish, operatorlarning malakasini oshirish, ratsional foydalanish 
+    D) Mashina quvvatini kamaytirish 
+    Answer: C
+
+32. Melioratsiya tizimlarining turlariga qarab qanday mashinalar qo'llaniladi? 
+    A) Faqat kanal qazish mashinalari 
+    B) Sug'orish va drenajlash tizimlari uchun maxsus mashinalar 
+    C) Faqat yer tekislash mashinalari 
+    D) Faqat tuproqni zichlash mashinalari 
+    Answer: B
+
+33. Melioratsiya mashinalarining ishlash prinsipiga ko'ra turlari? 
+    A) Mexanik, gidravlik, pnevmatik 
+    B) Faqat mexanik 
+    C) Faqat gidravlik 
+    D) Faqat pnevmatik 
+    Answer: A
+
+34. Sug'orish kanallarini tozalash uchun qanday mashinalar ishlatiladi? 
+    A) Kultivatorlar 
+    B) Kanal tozalash mashinalari 
+    C) Pluglar 
+    D) Seyalkalar 
+    Answer: B
+
+35. Suv o'lchash asboblarining melioratsiyadagi o'rni? 
+    A) Tuproq namligini o'lchash 
+    B) Suv sarfini va sathini nazorat qilish 
+    C) Havo haroratini o'lchash 
+    D) Shamol tezligini o'lchash 
+    Answer: B
+
+36. Melioratsiya ishlarida tuproqshunoslik bilimlari nima uchun muhim? 
+    A) Ekinlarni tanlash uchun 
+    B) Mashinalarning turini aniqlash uchun 
+    C) Tuproq xususiyatlarini tushunish va melioratsiya tadbirlarini to'g'ri rejalashtirish uchun 
+    D) Suv manbasini aniqlash uchun 
+    Answer: C
+
+37. Ekologik melioratsiya deganda nimani tushunasiz? 
+    A) Faqat suvni tejash 
+    B) Atrof-muhitni himoya qilgan holda melioratsiya ishlarini bajarish 
+    C) Faqat tuproqni himoya qilish 
+    D) Faqat havo ifloslanishini kamaytirish 
+    Answer: B
+
+38. Melioratsiya mashinalarini loyihalashda qanday omillar hisobga olinadi? 
+    A) Faqat narx 
+    B) Ishlash sharoiti, tuproq turi, iqlim sharoiti, texnologik talablar 
+    C) Faqat operatorning qulayligi 
+    D) Faqat tashqi ko'rinish 
+    Answer: B
+
+39. Melioratsiya ishlarida avtomatlashtirishning afzalligi? 
+    A) Ish jarayonini sekinlashtirish 
+    B) Qo'l mehnati sarfini oshirish 
+    C) Ish samaradorligini oshirish, xatolarni kamaytirish, resurslardan oqilona foydalanish 
+    D) Asbob-uskunalarning narxini oshirish 
+    Answer: C
+
+40. Melioratsiya mashinalarini sozlash nima uchun muhim? 
+    A) Mashinaning tezligini oshirish uchun 
+    B) Optimal ishlash rejimini ta'minlash, energiya sarfini kamaytirish va ish sifatini yaxshilash uchun 
+    C) Mashinaning og'irligini kamaytirish uchun 
+    D) Faqat yonilg'i tejash uchun 
+    Answer: B
+
+41. Melioratsiya sohasida kadrlar tayyorlashning ahamiyati? 
+    A) Faqat nazariy bilimlarni berish 
+    B) Zamonaviy texnika va texnologiyalardan samarali foydalanishni ta'minlash 
+    C) Faqat mashina haydashni o'rgatish 
+    D) Faqat ta'mirlashni o'rgatish 
+    Answer: B
+
+42. Melioratsiya ishlarida xavfsizlik texnikasiga rioya qilishning muhimligi nimada? 
+    A) Ish jarayonini sekinlashtirish uchun 
+    B) Baxtsiz hodisalarning oldini olish, xodimlarning sog'lig'ini himoya qilish 
+    C) Mashinaning ishlamay qolishini ta'minlash 
+    D) Faqat qog'ozda ko'rsatish uchun 
+    Answer: B
+
+43. Sug'orish normalari nima uchun belgilanadi? 
+    A) Faqat suvni tejash uchun 
+    B) Ekinlarning suvga bo'lgan ehtiyojini qondirish va ortiqcha suv sarfini oldini olish uchun 
+    C) Tuproqning pH darajasini o'zgartirish uchun 
+    D) Faqat sug'orish mavsumini qisqartirish uchun 
+    Answer: B
+
+44. Tuproq eroziyasiga qarshi kurashishda melioratsiya mashinalarining o'rni? 
+    A) Eroziyani kuchaytirish 
+    B) Maxsus texnikalar yordamida tuproqni himoya qilish, teraslar qurish 
+    C) Tuproqni to'liq olib tashlash 
+    D) Eroziyaga ta'siri yo'q 
+    Answer: B
+
+45. Melioratsiya tizimlarining xizmat muddatini oshirish yo'llari? 
+    A) Muntazam texnik xizmat ko'rsatishni rad etish 
+    B) Sifatsiz materiallardan foydalanish 
+    C) Yuqori sifatli materiallardan foydalanish, muntazam texnik xizmat ko'rsatish va to'g'ri ekspluatatsiya qilish 
+    D) Mashinalarni kam ishlatish 
+    Answer: C
+
+46. Qishloq xo'jaligida melioratsiyaning iqtisodiy samaradorligi nimada? 
+    A) Hosildorlikning kamayishi 
+    B) Suv sarfining oshishi 
+    C) Hosildorlikning oshishi, resurslardan oqilona foydalanish, daromadning ko'payishi 
+    D) Qishloq xo'jaligi mahsulotlari narxining oshishi 
+    Answer: C
+
+47. Melioratsiya mashinalarining diagnostikasi nima uchun muhim? 
+    A) Nosozliklarni topa olmaslik uchun 
+    B) Nosozliklarni erta aniqlash, ta'mirlash xarajatlarini kamaytirish va ishlamay qolish vaqtini qisqartirish uchun 
+    C) Faqat tashqi ko'rikdan o'tkazish uchun 
+    D) Faqat ishlab chiqaruvchini nazorat qilish uchun 
+    Answer: B
+
+48. Melioratsiya ishlarida suv resurslarini boshqarishning ahamiyati? 
+    A) Suvni isrof qilish 
+    B) Suvdan samarali foydalanish, uning tanqisligini oldini olish va atrof-muhitga salbiy ta'sirni kamaytirish 
+    C) Suvning sifatini pasaytirish 
+    D) Suv resurslarini e'tiborsiz qoldirish 
+    Answer: B
+
+49. Melioratsiya loyihalarini moliyalashtirish manbalari? 
+    A) Faqat davlat byudjeti 
+    B) Davlat byudjeti, xalqaro grantlar, xususiy sarmoyalar, bank kreditlari 
+    C) Faqat xususiy sarmoyalar 
+    D) Faqat xorijiy investitsiyalar 
+    Answer: B
+
+50. Melioratsiya ishlarining ijtimoiy ahamiyati nimada? 
+    A) Ishsizlikni oshirish 
+    B) Aholi daromadini kamaytirish 
+    C) Aholi farovonligini oshirish, oziq-ovqat xavfsizligini ta'minlash, qishloq joylarida ish o'rinlari yaratish 
+    D) Qishloq xo'jaligini rivojlantirishga ta'siri yo'q 
+    Answer: C
+
+51. Kanal qazish mashinasini tanlashda nimalarga e'tibor berish kerak? 
+    A) Faqat uning narxiga 
+    B) Qaziladigan kanalning o'lchamlari, tuproq turi, ish unumdorligi 
+    C) Mashinaning rangi 
+    D) Ishlab chiqaruvchi mamlakat 
+    Answer: B
+
+52. Drenaj tizimining samaradorligini oshirish usullari? 
+    A) Drenaj quvurlarini kamaytirish 
+    B) Drenaj quvurlari diametrini kichraytirish 
+    C) To'g'ri loyihalash, sifatli materiallardan foydalanish, muntazam tozalash 
+    D) Drenajni kamroq ishlatish 
+    Answer: C
+
+53. Yer tekislashda lazerli tizimning afzalligi? 
+    A) Yuqori xato ehtimoli 
+    B) Kichik maydonlar uchun mo'ljallangan 
+    C) Yuqori aniqlik, ish samaradorligini oshirish, suvni tejash 
+    D) Ko'proq ish vaqti talab qiladi 
+    Answer: C
+
+54. Melioratsiya ishlarida GIS (Geografik Axborot Tizimlari)ning o'rni? 
+    A) Faqat xaritalarni yaratish 
+    B) Ma'lumotlarni tahlil qilish, loyihalash, monitorin gva boshqarish 
+    C) Faqat rasmlarni saqlash 
+    D) GIS melioratsiyada ishlatilmaydi 
+    Answer: B
+
+55. Suv chiqarish stansiyalarida energiyani tejash yo'llari? 
+    A) Nasoslarni kamroq ishlatish 
+    B) Eski nasoslarni ishlatish 
+    C) Yuqori samarali nasoslar va motorlardan foydalanish, energiya tejovchi texnologiyalarni joriy etish 
+    D) Suvni kamroq chiqarish 
+    Answer: C
+
+56. Melioratsiya tashkilotlarining asosiy vazifasi? 
+    A) Faqat kanal qazish 
+    B) Melioratsiya loyihalarini ishlab chiqish va amalga oshirish, tizimlarni boshqarish va xizmat ko'rsatish 
+    C) Faqat sug'orish 
+    D) Faqat ta'mirlash 
+    Answer: B
+
+57. Melioratsiya ishlarida tuproqning sho'rlanishini kamaytirish usullari? 
+    A) Sug'orishni oshirish 
+    B) Drenaj tizimini yaxshilash, sho'r yuvish ishlarini amalga oshirish, sho'rga chidamli ekinlarni ekish 
+    C) Kimyoviy moddalar qo'shish 
+    D) Tuproqni to'liq almashtirish 
+    Answer: B
+
+58. Melioratsiya mashinalarining eskirishiga ta'sir etuvchi omillar? 
+    A) Faqat ishlatish chastotasi 
+    B) Ishlash sharoiti, tuproqning abrazivligi, texnik xizmat ko'rsatish sifati, yuklanish darajasi 
+    C) Faqat mashinaning rangi 
+    D) Operatorning tajribasi 
+    Answer: B
+
+59. Melioratsiya ishlarida ekologik nazoratning ahamiyati? 
+    A) Faqat byudjetni tejash 
+    B) Atrof-muhitga salbiy ta'sirni kamaytirish, barqaror rivojlanishni ta'minlash 
+    C) Ish jarayonini sekinlashtirish 
+    D) Faqat hujjatlarni to'ldirish 
+    Answer: B
+
+60. Melioratsiya texnikasida texnologik yangiliklarning joriy etilishi nimaga olib keladi? 
+    A) Ish unumdorligini kamaytirishga 
+    B) Resurslar sarfini oshirishga 
+    C) Ish samaradorligini oshirish, xarajatlarni kamaytirish, ish sifatini yaxshilash 
+    D) Atrof-muhit ifloslanishiga 
+    Answer: C
+
+61. Kanal qazish mashinalarining quvvati nimaga bog'liq? 
+    A) Faqat operatorning mahoratiga 
+    B) Dvigatel quvvati, ish organining o'lchamlari va tuproqning xususiyatlariga 
+    C) Mashinaning og'irligiga 
+    D) Yoqilg'i turiga 
+    Answer: B
+
+62. Drenaj qazish mashinasini tanlashda asosiy mezonlar? 
+    A) Faqat narxi 
+    B) Drenajning chuqurligi va kengligi, tuproq turi, ish unumdorligi 
+    C) Mashinaning tashqi ko'rinishi 
+    D) Ishlab chiqaruvchi kompaniya 
+    Answer: B
+
+63. Yer tekislashda optimal nishablikni aniqlashning ahamiyati? 
+    A) Suvni isrof qilish uchun 
+    B) Suvni samarali taqsimlash, tuproq eroziyasini oldini olish va ekinlarning bir tekis o'sishini ta'minlash uchun 
+    C) Faqat estetika uchun 
+    D) Nishablik muhim emas 
+    Answer: B
+
+64. Tuproqni zichlash texnologiyasida qanday usullar qo'llaniladi? 
+    A) Faqat yuzaki zichlash 
+    B) Qatlamli zichlash, vibratsion zichlash, pnevmatik zichlash 
+    C) Faqat kimyoviy zichlash 
+    D) Faqat mexanik zichlash 
+    Answer: B
+
+65. Suv chiqarish stansiyalarining joylashishini tanlashda nimalarga e'tibor beriladi? 
+    A) Faqat qulaylikka 
+    B) Gidrogeologik sharoitlar, suv manbasiga yaqinlik, energiya manbasining mavjudligi 
+    C) Faqat estetik ko'rinishga 
+    D) Yaqin atrofdagi aholi punktlari 
+    Answer: B
+
+66. Melioratsiya ishlarida suvning sifati nima uchun muhim? 
+    A) Suv sifati muhim emas 
+    B) Tuproqning sho'rlanishini oldini olish, ekinlarga zarar yetkazmaslik 
+    C) Faqat inson iste'moli uchun 
+    D) Faqat hayvonlar uchun 
+    Answer: B
+
+67. Melioratsiya texnikasini ekspluatatsiya qilishda qanday muammolar yuzaga kelishi mumkin? 
+    A) Faqat ehtiyot qismlar yetishmovchiligi 
+    B) Nosozliklar, ehtiyot qismlar yetishmovchiligi, malakasiz operatorlar, yoqilg'i narxi 
+    C) Faqat ob-havo sharoiti 
+    D) Faqat yoqilg'i sifati 
+    Answer: B
+
+68. Melioratsiya ishlarida tuproqning sho'rlanish darajasini aniqlash usullari? 
+    A) Faqat vizual baholash 
+    B) Laboratoriya tahlillari, elektrometrik usullar, masofaviy zondlash 
+    C) Faqat qo'l bilan tekshirish 
+    D) Faqat suvning pH darajasini o'lchash 
+    Answer: B
+
+69. Melioratsiya tizimlarini modernizatsiya qilishning asosiy sabablari? 
+    A) Faqat eski tizimlarni almashtirish 
+    B) Suv resurslaridan samarali foydalanish, energiya tejash, hosildorlikni oshirish 
+    C) Faqat yangi texnologiyalarni sinab ko'rish 
+    D) Modernizatsiya shart emas 
+    Answer: B
+
+70. Melioratsiya sohasida ilmiy-tadqiqot ishlarining ahamiyati? 
+    A) Faqat nazariy bilimlarni to'plash 
+    B) Yangi texnologiyalar va usullarni ishlab chiqish, mavjud muammolarni hal qilish 
+    C) Faqat xalqaro aloqalarni mustahkamlash 
+    D) Ilmiy-tadqiqot ishlari muhim emas 
+    Answer: B
+
+71. Kanal qazish mashinalarining xizmat muddatini uzaytirish choralari? 
+    A) Kamroq ishlatish 
+    B) Muntazam texnik ko'rik va ta'mirlash, ehtiyot qismlarni o'z vaqtida almashtirish, to'g'ri ekspluatatsiya qilish 
+    C) Faqat tashqi tozalash 
+    D) Mashinani yangilash 
+    Answer: B
+
+72. Drenaj ishlari olib borishda xavfsizlik choralariga rioya qilishning muhimligi? 
+    A) Ishni sekinlashtiradi 
+    B) Baxtsiz hodisalarning oldini olish, ishchilarning hayoti va sog'lig'ini himoya qilish 
+    C) Ortga qadam tashlashni ta'minlaydi 
+    D) Ishlab chiqarish xarajatlarini oshiradi 
+    Answer: B
+
+73. Yer tekislash mashinalarining turlari? 
+    A) Ekskavatorlar, pluglar 
+    B) Gʻildirakli, zanjirli 
+    C) Skreperlar, greyderlar, buldozerlar 
+    D) Kultivatorlar, seyalkalar 
+    Answer: C
+
+74. Tuproqni zichlashda valiklarning turlari? 
+    A) Faqat silliq valiklar 
+    B) Silliq, tishli, panjarali, pnevmatik shinali 
+    C) Faqat tishli valiklar 
+    D) Faqat pnevmatik shinali valiklar 
+    Answer: B
+
+75. Suv chiqarish stansiyalarida avtomatlashtirishning roli? 
+    A) Faqat xodimlarni kamaytirish 
+    B) Ish jarayonini optimallashtirish, energiya tejash, nosozliklarni erta aniqlash 
+    C) Faqat nazoratni murakkablashtirish 
+    D) Avtomatlashtirish zarur emas 
+    Answer: B
+
+76. Melioratsiya tizimlarida suv sarfini kamaytirish usullari? 
+    A) Ochiq kanallardan foydalanish 
+    B) Sug'orish texnologiyalarini (tomchilatib, yomg'irlatib) joriy etish, suv yo'qotishlarini kamaytirish 
+    C) Sug'orish vaqtini uzaytirish 
+    D) Eski sug'orish usullaridan foydalanish 
+    Answer: B
+
+77. Melioratsiya ishlarida tuproqning sho'rlanishini oldini olishning ahamiyati? 
+    A) Hosildorlikni kamaytirish 
+    B) Tuproq unumdorligini saqlash, ekinlarning normal rivojlanishini ta'minlash 
+    C) Tuproq strukturasini buzish 
+    D) Atrof-muhitni ifloslantirish 
+    Answer: B
+
+78. Melioratsiya mashinalarining unumdorligini oshirish omillari? 
+    A) Eskirgan texnologiyalar 
+    B) Dvigatel quvvati, ish organlarining samaradorligi, operatorning malakasi, texnik xizmat ko'rsatish sifati 
+    C) Kichik o'lchamlar 
+    D) Yuqori narx 
+    Answer: B
+
+79. Melioratsiya sohasida xalqaro hamkorlikning ahamiyati? 
+    A) Faqat mamlakatlararo raqobatni kuchaytirish 
+    B) Tajriba almashish, yangi texnologiyalarni joriy etish, qo'shma loyihalarni amalga oshirish 
+    C) Faqat siyosiy maqsadlar 
+    D) Xalqaro hamkorlik keraksiz 
+    Answer: B
+
+80. Melioratsiya ishlarining qishloq xo'jaligi infratuzilmasiga ta'siri? 
+    A) Infrastrukturani yomonlashtirish 
+    B) Sug'orish va drenajlash tizimlarini yaxshilash, yo'llar qurish, elektr ta'minotini yaxshilash 
+    C) Faqat transport muammolarini keltirib chiqarish 
+    D) Infrastrukturaga ta'siri yo'q 
+    Answer: B
+
+81. Kanal qazish mashinalarining turi qanday tanlanadi? 
+    A) Faqat narxiga qarab 
+    B) Kanalning shakli va o'lchamlari, tuproqning xususiyatlari, ish hajmi 
+    C) Mashinaning rangi 
+    D) Ishlab chiqaruvchi mamlakat 
+    Answer: B
+
+82. Drenaj tizimining xizmat muddatini kamaytiruvchi omillar? 
+    A) Muntazam tozalash 
+    B) Noto'g'ri loyihalash, sifatsiz materiallar, muntazam texnik xizmat ko'rsatilmasligi 
+    C) Yuqori sifatli drenaj quvurlari 
+    D) Suvning toza bo'lishi 
+    Answer: B
+
+83. Yer tekislashda lazerli tizimning ishlash prinsipiga ta'sir etuvchi omillar? 
+    A) Faqat ob-havo sharoiti 
+    B) Lazer nurlarining aniqligi, qabul qilgichning joylashuvi, tekislanadigan maydonning o'lchamlari 
+    C) Faqat operatorning mahorati 
+    D) Yonilg'i turi 
+    Answer: B
+
+84. Tuproqni zichlashda vibratsion zichlagichlarning afzalligi? 
+    A) Kam samaradorlik 
+    B) Yuqori zichlash samaradorligi, chuqur qatlamlarni zichlash imkoniyati 
+    C) Ko'proq energiya sarfi 
+    D) Kamroq ish unumdorligi 
+    Answer: B
+
+85. Suv chiqarish stansiyalarining energetik samaradorligini oshirish choralari? 
+    A) Eski nasoslarni ishlatish 
+    B) Zamonaviy energiya tejovchi texnologiyalarni joriy etish, nasoslarni optimal rejimda ishlatish 
+    C) Suvni kamroq chiqarish 
+    D) Texnik xizmat ko'rsatishni kamaytirish 
+    Answer: B
+
+86. Melioratsiya ishlarida tuproqning namlik rejimini boshqarishning ahamiyati? 
+    A) Ekinlarning o'sishini sekinlashtirish 
+    B) Ekinlarning optimal o'sishi uchun zarur namlikni ta'minlash, suvni tejash 
+    C) Tuproqni to'liq quritish 
+    D) Tuproqni doimiy nam holda saqlash 
+    Answer: B
+
+87. Melioratsiya texnikasini ta'mirlashning turlari? 
+    A) Faqat joriy ta'mirlash 
+    B) Joriy ta'mirlash, o'rta ta'mirlash, kapital ta'mirlash 
+    C) Faqat kapital ta'mirlash 
+    D) Faqat profilaktik ta'mirlash 
+    Answer: B
+
+88. Melioratsiya ishlarida tuproqning mexanik tarkibini aniqlash nima uchun muhim? 
+    A) Faqat tuproq rangini bilish uchun 
+    B) Sug'orish va drenajlash usullarini to'g'ri tanlash, tuproqqa ishlov berish texnologiyasini aniqlash 
+    C) Faqat ekin turini tanlash uchun 
+    D) Tuproqning narxini aniqlash uchun 
+    Answer: B
+
+89. Melioratsiya tizimlarini loyihalashda kompleks yondashuvning ahamiyati? 
+    A) Faqat bitta muammoni hal qilish 
+    B) Barcha omillarni (gidrologik, tuproqshunoslik, iqtisodiy, ekologik) hisobga olish, optimal yechimni topish 
+    C) Loyihalash jarayonini murakkablashtirish 
+    D) Faqat suv manbasini tanlash 
+    Answer: B
+
+90. Melioratsiya ishlarida ilmiy-texnikaviy rivojlanishning ta'siri? 
+    A) Faqat eskizlarni chizish 
+    B) Yangi texnika va texnologiyalarni joriy etish, ish unumdorligini oshirish, resurslardan samarali foydalanish 
+    C) Faqat nazariy bilimlarni ko'paytirish 
+    D) Rivojlanishga ta'siri yo'q 
+    Answer: B
+
+91. Kanal qazishda ishlatiladigan ekskavatorlarning asosiy ish organi? 
+    A) Pichoq 
+    B) Kovsh 
+    C) Freza 
+    D) Zanjir 
+    Answer: B
+
+92. Drenaj quvurlarini yotqizishda qanday materiallar ishlatiladi? 
+    A) Yog'och 
+    B) Plastik, keramika, beton 
+    C) Metall 
+    D) Faqat beton 
+    Answer: B
+
+93. Yer tekislash mashinalarining tor ixtisoslashgan turlari? 
+    A) Umumiy maqsadli skreperlar 
+    B) Chiziqli tekislagichlar (longitudial) 
+    C) Universal greyderlar 
+    D) Buldozerlar 
+    Answer: B
+
+94. Tuproqni zichlashda optimal namlik nima uchun muhim? 
+    A) Tuproqning erishini tezlashtirish 
+    B) Zichlash samaradorligini oshirish, tuproqning optimal strukturasini shakllantirish 
+    C) Tuproqning qurishini ta'minlash 
+    D) Namlik muhim emas 
+    Answer: B
+
+95. Suv chiqarish stansiyalarida nasoslarni tanlashda nimalarga e'tibor beriladi? 
+    A) Faqat nasosning narxi 
+    B) Suv sarfi, bosim, suvning ifloslanish darajasi, energiya sarfi 
+    C) Nasosning rangi 
+    D) Ishlab chiqaruvchi mamlakat 
+    Answer: B
+
+96. Melioratsiya ishlarida ekologik muammolarni hal qilish yo'llari? 
+    A) Ekologik normalarga rioya qilmaslik 
+    B) Barqaror melioratsiya texnologiyalarini qo'llash, biologik xilma-xillikni saqlash, suv resurslarini muhofaza qilish 
+    C) Faqat kimyoviy moddalardan foydalanish 
+    D) Ekologik muammolar yo'q 
+    Answer: B
+
+97. Melioratsiya texnikasining ishonchliligini oshirish choralari? 
+    A) Sifatsiz ehtiyot qismlardan foydalanish 
+    B) Yuqori sifatli materiallardan foydalanish, konstruksiyani mustahkamlash, muntazam diagnostika 
+    C) Texnik xizmat ko'rsatishni kamaytirish 
+    D) Mashinani kam yuklash 
+    Answer: B
+
+98. Melioratsiya ishlarida tuproq unumdorligini oshirishda qanday chora-tadbirlar qo'llaniladi? 
+    A) Faqat kimyoviy moddalar qo'shish 
+    B) Organik o'g'itlar, mineral o'g'itlar, ekin almashlab ekish, tuproqni chuqur shudgorlash 
+    C) Faqat tuproqni sug'orish 
+    D) Faqat drenajlash 
+    Answer: B
+
+99. Melioratsiya loyihalarini boshqarishda axborot texnologiyalarining roli? 
+    A) Faqat qog'ozda hujjatlashtirish 
+    B) Loyihalashtirish, rejalashtirish, monitoring, resurslarni boshqarish 
+    C) Faqat ma'lumotlarni saqlash 
+    D) Axborot texnologiyalari keraksiz 
+    Answer: B
+
+100. Melioratsiya ishlarining mintaqaviy rivojlanishga ta'siri? 
+    A) Faqat urbanizatsiya 
+    B) Qishloq xo'jaligi ishlab chiqarishini oshirish, aholi bandligini ta'minlash, iqtisodiy o'sishga hissa qo'shish 
+    C) Faqat shaharlarning rivojlanishi 
+    D) Mintaqaviy rivojlanishga ta'siri yo'q 
+    Answer: B
+
+101. Ochiq zovurlar necha turga bo’linadi? 
+    A) 2 ta 
+    B) 3 ta 
+    C) 4 ta 
+    D) 5 ta 
+    Answer: B
+
+102. Qurish zovurlari nima uchun xizmat qiladi? 
+    A) Ortig’cha namlikni yig’ib, oqizib yuborish uchun 
+    B) Suvni saqlash uchun 
+    C) Tuproqni tozalash uchun 
+    D) Ekinlarni sug'orish uchun 
+    Answer: A
+
+103. Sug’orish zovurlari nima uchun xizmat qiladi? 
+    A) Faqat ortiqcha namlikni olib tashlash uchun 
+    B) Tuproqni sug'orish uchun 
+    C) Suvni ekin maydonlariga yetkazib berish uchun 
+    D) Suvning bug'lanishini kamaytirish uchun 
+    Answer: C
+
+104. Keng qamashli mashinalar qanday melioratsiya ishlarida qo’llaniladi? 
+    A) Faqat maydonlarni shudgorlashda 
+    B) Katta maydonlarda chuqur shudgorlash va tuproqni aralashtirishda 
+    C) Faqat kanal qazishda 
+    D) Faqat drenajlashda 
+    Answer: B
+
+105. Yer yuzasini tekislash mashinalari qanday energiya yordamida harakatlanadi? 
+    A) Shamol energiyasi 
+    B) Elektr energiyasi 
+    C) Ichki yonuv dvigateli (motor) 
+    D) Quyosh energiyasi 
+    Answer: C
+
+106. Zanjirli ekskavatorlarning afzalligi nimada? 
+    A) Kichik tezlik 
+    B) Katta chuqurlikda qazish imkoniyati va har qanday tuproq turida ishlash qobiliyati 
+    C) Kam manevrchanlik 
+    D) Faqat yengil tuproqlarda ishlash 
+    Answer: B
+
+107. Rotorli ekskavatorlarning afzalligi nimada? 
+    A) Sekin ishlash 
+    B) Yuqori unumdorlik va katta hajmdagi tuproq ishlarini bajarish 
+    C) Faqat kichik kanallarni qazish 
+    D) Kam harakatchanlik 
+    Answer: B
+
+108. Melioratsiya ishlarida gidravlik tizimlarning o’rni? 
+    A) Faqat suvni tozalash 
+    B) Mashinalarning ish organlarini boshqarish va harakatga keltirish 
+    C) Faqat suyuqliklarni saqlash 
+    D) Gidravlik tizimlar ishlatilmaydi 
+    Answer: B
+
+109. Pnevmatik tizimlar melioratsiya mashinalarida qanday vazifani bajaradi? 
+    A) Faqat sovutish 
+    B) Ish organlarini boshqarish, tormoz tizimlarida 
+    C) Faqat moylash 
+    D) Faqat isitish 
+    Answer: B
+
+110. Melioratsiya ishlarida GPS (Global Positioning System) nima uchun ishlatiladi? 
+    A) Faqat mashinaning tezligini o'lchash 
+    B) Loyihalarni aniq bajarish, mashinalarning harakatini nazorat qilish, er yuzasini xaritalash 
+    C) Faqat ob-havoni prognozlash 
+    D) Faqat xodimlarni kuzatish 
+    Answer: B
+
+111. Drenajlashning qanday turlari mavjud? 
+    A) Vertikal, gorizontal 
+    B) Yuzaki, chuqur 
+    C) Yopiq, ochiq 
+    D) Barcha javoblar to'g'ri 
+    Answer: D
+
+112. Ochiq drenaj tizimining afzalligi? 
+    A) Yuqori xizmat ko'rsatish talabi 
+    B) Qurilishi arzon, suvni tez chiqarib yuborish imkoniyati 
+    C) Ko'p yer maydonini egallaydi 
+    D) Estetik ko'rinishi yomon 
+    Answer: B
+
+113. Yopiq drenaj tizimining afzalligi? 
+    A) Qurilishi qimmat 
+    B) Yer maydonini tejaydi, texnik xizmat ko'rsatish kamroq talab qiladi, uzoq muddatli 
+    C) Suvni sekin chiqaradi 
+    D) Faqat yuqori namlikda ishlaydi 
+    Answer: B
+
+114. Melioratsiya ishlarida tuproqning filtratsiya koeffitsiyenti nima uchun muhim? 
+    A) Tuproqning rangi 
+    B) Suvning tuproq orqali o'tish tezligini aniqlash va drenaj tizimini loyihalash uchun 
+    C) Tuproqning harorati 
+    D) Tuproqning og'irligi 
+    Answer: B
+
+115. Melioratsiya mashinalarini boshqarishda ergonomik talablar nima uchun muhim? 
+    A) Mashinaning narxini oshirish uchun 
+    B) Operatorning qulayligi, charchoqni kamaytirish, ish samaradorligini oshirish va xavfsizlikni ta'minlash uchun 
+    C) Faqat tashqi ko'rinish uchun 
+    D) Ergonomik talablar muhim emas 
+    Answer: B
+
+    Subject: qxm
+
+1. "KMХ-65" apparati qaysi mashinalarga o'rnatiladi? 
+A) Pluglar
+B) Kultivatorlarga 
+C) Don seyalkalar
+D) Chigit seyalkalar
+Answer: B
+
+2) 14ХВ-2,4 mashinasi gidrosistemasining vazifasi nima? 
+A) Faqat bunkerni ko'tarib tushirish
+B) Faqat terish apparatini ko'tarib tushirish
+C) Terish apparatlarini ish tirqishini rostlash
+D) Terish apparati va bunkerni ko'tarib tushirish va boshqarishni yengillashtirish 
+Answer: D
+
+3) 14ХВ-2,4 mashinasi qator orasi qancha bo'lgan paxta dalalarida ishlatiladi? 
+A) 90 sm
+B) 76 sm
+C) 60 sm 
+D) 45 sm
+Answer: C
+
+4) 14ХВ-2,4 necha qatorli mashina? 
+A) 8 qatorli
+B) 4 qatorli 
+C) 2 qatorli
+D) 6 qatorli
+Answer: B
+
+5) Agregatlash usuliga ko'ra don yig'ish kombaynlari qaysi turlarga bo'linadi? 
+A) Tirkama
+B) Yarim osma
+C) Osma
+D) Osma, tirkama va o'ziyurar 
+Answer: D
+
+6) Andijon-2M seyalkasi ekish barabanining asosiy vazifasi? 
+A) Poliеtilеn plyonkani tеshadi va tuksizlantirilgan chigitni tuproq bilan ko'madi 2
+B) Tukli хamda tuksiz chigitlarni uyalab ekish
+C) Tuksizlantirilgan chigitni qatorlab ekish
+D) Tukli chigitni qo'sh qatorlab ekish
+Answer: A
+
+7) Baraban ichidagi gofrlangan tsilindr nima uchun хizmat qiladi? 
+A) paхtaga ilashgan хas-cho'plardan tozalash
+B) shpindеldagi paхtani unga to'liqroq ilintirishga 
+C) bunkеrga ko'proq paхta tushirish
+D) shpindеldan paхta o'zidan–o'zi ajralishini
+Answer: B
+
+8) Bog'bop plug haydash chuqurligi qanday o'zgartiriladi? 
+A) Maхsus korpuslarni almashtirish yordamida
+B) Maхsus orqa g'ildirak yordamida
+C) Maхsus vintsimon mехanizm hisobiga 
+D) Maхsus tirkagich yordamida
+Answer: C
+
+9) Bog'bop plugi faqat tirkalma bo'lishining sababi? 
+A) Tirkalma pulug arzanroq bo'lgani uchun
+B) Tirkalma plug iхcham bo'lgani uchun
+C) Bog' sharoitida plug traktorga nisbatan yon tomoniga surilgan va shu holatda ulash uchun 
+D) Tirkalma pulug yengilroq bo'lgani uchun
+Answer: C
+
+10) Bog'bop plugi nega faqat tirkalma bo'ladi? 
+A) Tirkalma plug arzonroq bo'lgani uchun
+B) Tirkalma plug yengilroq bo'lgani uchun
+C) Tirkalma plug iхcham bo'lgani uchun
+D) Osma plugni ko'tarishda daraхt shoхlari va hosili shikastlanishi mumkin 
+Answer: D
+
+11) Bog'bop plugni qanday traktor bilan agregatlash mumkin? 
+A) Harqanday traktor
+B) Plug o'ziyurar qilinadi
+C) Faqat g'ildirakli traktor
+D) Faqat gusеnitsali traktorga 
+Answer: D
+
+12) Bog'dagi daraхtlar qatorlarining kеngligi nimaga moslanadi? 
+A) Qatorlar shoхlari tutashmasligi uchun
+B) Qatorlar oralig'ining kеngligiga talab qo'yilmaydi
+C) Qatorlar oralig'iga avtomobil kirish uchun
+D) Qatorlar oralig'ida tехnika yurishiga 
+Answer: D
+
+13) Bog'dagi daraхtlarga dori eritmasi qanday purkagich bilan purkash yaхshi natija bеradi? 
+A) Shtangali purkagich bilan
+B) Brondspoyt bilan
+C) Suyuq holatga keltiriladi va ventilyatorli purkagich bilan sepiladi 
+D) Aerozol generator bilan
+Answer: C
+
+14) Bog'dorchilik mashinalari oddiy qishloq хo'jalik mashinalaridan nima bilan farqlanadi? 
+A) O'lchamlari farqlanmaydi
+B) O'lchamlari kattaroq bo'ladi
+C) O'lchamlari kichikroq bo'ladi
+D) Bog'da bajariladigan ishlarning qulayligi va yengilligi bilan 
+Answer: D
+
+15) Bog'dorchilik sharoitida oddiy plugdan foydalanish nima uchun samarasiz? 
+A) Mumkin, faqat korpuslarni almashtirish kеrak
+B) Mumkin emas, oddiy plug qatorlar oralig'iga sig'maydi
+C) Daraхtlar qatoriga yaqin va kerakli joylar haydalmasdan qoladi 
+D) Mumkin faqat uning ramasini o'zgartirish lozim bo'ladi
+Answer: C
+
+16) Bog'larda tomchilatib sug'orish nega samarali bo'ladi? 
+A) Suv tеjalmaydi, notekis sug'oriladi
+B) Suv tеjalmaydi, yer doimo nam bo'ladi
+C) Suv tеjaladi, notekis sug'oriladi
+D) Suv tеjaladi va bir tеkis sug'oriladi 
+Answer: D
+
+17) Bog'lardagi daraхt shoхlariga nega shakl bеrish kеrak? 
+A) Hosilini mashinada tеrish qulay bo'lishi uchun
+B) Teхnika uchun qulay bo'ladi
+C) Daraхt chiroyli bo'lishi uchun
+D) Hosilni yaxshilash va tеrish qulay bo'lishi uchun 
+Answer: D
+
+18) Bog'larni o'g'itlash uchun qanday mashinadan foydalanish ma'qul? 
+A) Organik o'g'it sochadigan mashinadan
+B) Paхtachilik kultivatoridan
+C) Suyuq o'g'it sochadigan mashinadan
+D) Maхsus va uzumchilik plugidan 
+Answer: D
+
+19) Bеdapoyani shudgorlashda chimqirqar qanday chuqurlikda o'rnatiladi? 
+A) chuqurlik katta-kichikligini farqi yo'q
+B) traktorning tortish quvvatiga qarab
+C) Tuproqni ag'darishga halaqit bеrmaydigan qilib
+D) bеda ildizlaridagi tugunaklar joylashgan chuqurlikka va uning yo'nalishiga moslab 
+Answer: D
+
+20) Chigit ekish chuqurligi qanday sozlanadi? 
+A) Ekish chuqurligi seyalkaning ramasidagi shtanga yordamida sozlanadi
+B) Ekish chuqurligi ekish apparati yordamida sozlanadi) 
+C) Ekish chuqurligi tayanch g'ildiragi yordamida sozlanadi
+D) Ekish chuqurligi seyalkaning soshnikdagi polozni pichoqqa nisbatan ko'tarish va tushirish yo'li bilan sozlanadi 
+Answer: D
+
+21) Chigit ekishda tutash qatorlar kеngligini to'g'ri o'rnatishga nega ko'p e'tibor bеrish kеrak? 
+A) sug'orishni yengillashtirish uchun
+B) hamma nihollar uchun bir hil maydon ajratish uchun
+C) paхta tеrish mashinasini ishini yengillashtirish uchun
+D) kul'tivatsiyalashni yengillashtirish va nixollarni kam shkastlash uchun 
+Answer: D
+
+22) Chigit seyalkasida qo'llaniladigan ekish apparatini ko'rsating? 
+A) Prujinasimon ekish apparati
+B) Diskli ekish apparati
+C) G'altakli va diskli ekish apparati 
+D) Tarelkali ekish apparati
+Answer: C
+
+23) Chigit seyalkasining asosiy ishchi qismlarini ko'rsating? 
+A) Markyor, gidrotsilindr
+B) Osish qurilmalar rama, tayanch g'ildiraklari, bunker
+C) Yuritish meхanizmlari, biriktirish jihozlari
+D) Ekish apparati, urug' o'tkazgichlar, uyalash apparati, soshnik va ko'mish organlari 
+Answer: D
+
+24) Chigitlarni ekish chuqurligi qancha va nimalarga bog'liq? 
+A) Chigitni ekish chuqurligi 1-2 sm
+B) Ekish chuqurligi qat'iy 2 sm bo'lib, yer sharoitiga bog'liq
+C) Ekish chuqurligi 1-9 sm bo'lib ishlov bеrishga bog'liq
+D) Chigitni ekish chuqurligi 3-6 sm bo'ladi va yer sharoitiga bog'liq 
+Answer: D
+
+25) Chigitni ekish uchun mo'tadil chuqurlikni ko'rsating) 
+A) 4-9 sm gacha
+B) 1-5 sm gacha
+C) 5-10 sm gacha
+D) 3-6 sm gacha 
+Answer: D
+
+26) Chigitni tuproqqa ko'mish qurilmasi nimalardan tuzilgan? 
+A) Gryadillar, sferik disk o'rnatish qulfi, pichoq
+B) Yoysimon panja, kronshteyn, yuqori, pastki tortqilar, ag'dargichlar
+C) Sirpang'ich, prujina, disk yuritish meхanizmi
+D) Soshnik, zagortach va zichlash katoklari 
+Answer: D
+
+27) Chimbosgan, shuningdek, 3 yillik bedazorlarni haydashda qanday sirtli ag'dargichlar qo'llaniladi? 
+A) Vintsimon yoki sferik sirtli
+B) Madaniy va tsilindroidsimon sirtli 
+C) Barcha turdagi tsilindrli korpuslar
+D) Sferik sirtli korpuslar
+Answer: B
+
+28) Daraхt ko'chatini ekadigan mashinada ko'chat yumshatilgan egatga qanday uzatiladi? 
+A) Zanjir yordamida
+B) Mashina yonida yuradigan odam qo'li bilan
+C) Avtomat yordamida
+D) Mashinada odam o'tiradi va qo'li bilan ko'chatni ekadi 
+Answer: D
+
+29) Daraхt urug'ini ekadigan seyalkaning ekish miqdori qanday o'zgartiriladi? 
+A) Miqdorlagich g'altak sonini o'zgartirib
+B) Miqdorlagich g'altak diametrini o'zgartirib
+C) Miqdorlagich g'altak kеngligini o'zgartirib
+D) Miqdorlagich g'altak tеzligini va kеngligini o'zgartirib 
+Answer: D
+
+30) Daraхt urug'ini ekishda qatorlar oralig'i katta-kichikligi bir xil bo'lishiga qanday erishiladi? 
+A) Markyor diametrini o'zgartirib
+B) Markyorning engashish burchagini o'zgartirib
+C) Markyor uzunligini uzun va kalta holatda o'zgartirib 
+D) Markyor sonini o'zgartirib
+Answer: C
+
+31) Daraхt urug'ini yerga ko'mish chuqurligi qanday o'zgartiriladi? 
+A) Tayanch g'ildiragini ko'tarish va tushirish hisobiga 
+B) Markyor yordamida
+C) Egat ochish chuqurligini o'zgartirib
+D) Soyaning uzunligini o'zgartirib
+Answer: A
+
+32) Daraxtlarga aerozol bilan ishlov berish qanday amalga oshiriladi?
+A) Daraxtga plyonkadan yasalgan g’ilof kiydiriladi va ichiga purkaladi
+B) Daraxtni plyonka bilan o’rab, ishlov beriladi
+C) Shamolsiz havo paytida purkaladi
+D) Bunday ishlov berishning ilji yo’q
+Answer: A
+
+33) Diskli boronalarning ishlov berish chuqurligi qanday oshiriladi?
+A) Qo’shimcha yuk qo’yib va disklar hujum burchagini oshirib
+B) Faqat disklar hujum burchagini oshirib
+C) Disklar hujum burchagini kamaytirib
+D) Faqat qo’shimcha yuk qo’yib
+Answer: A
+
+34) Disksimon pichoq plugning qayeriga o’rnatiladi
+A) Oxiriga korpus oldiga
+B) Birinchi korpus oldi
+C) Birinchi korpus orqasi
+D) Oxirgi korpus orqasi
+Answer: A
+
+35) Don tozalash mashinalari mo’ljallanishiga ko’ra qanday turlarga ajratiladi?
+A) Umumiy va maxsus 
+B) Faqat bir xil o’lcham uchun 
+C) Faqat bir xil sort uchun 
+D) Umumiy massasi bo’yicha 
+Answer: A 
+
+36) Donli ekinlarni yig’ishning necha xil usuli mavjud?
+A) Bir, ikki va uch fazali
+B) Uch fazali
+C) Ikki fazali
+D) Bir fazali
+Answer: A
+
+37) G’alla kombayini motovilosining vazifasini ko’rsating?
+A) Qirqish apparatiga o’simlik poyasini egib beradi va uni egilgan poyadan tozalaydi
+B) O’rgichni berilgan balandiikka o’rnatishga xizmat qiladi
+C) Yanchish apparatiga poyani uzatadi
+D) Qirqish apparatlarini harakatlantiradi
+Answer: A
+
+38) G’alla kombayini somon elagichining vazifasini ko’rsating?
+A) Yanchish apparatidan chiqayotgan somon va chala yanchilgan boshoqni tarkibidagi donlarni ajratadi
+B) Yanchish qurilmasiga tushayotgan g’allani uning kengligi bo’yicha bir tekis yoyadi
+C) Yanchish qurilmasidan olinayotgan somonni to’playdi
+D) Qirqish apparatidan aralashmani yanchish qurilmasiga uzatadi
+Answer: A
+
+39) Gidravlik oziqlantirgichlar qaysi mashinalar bilan ishlatiladi?
+A) Yomg’irlatgich va tomchilatib sug’orish mashinalari bilan
+B) Kanal qazish mashinasi bilan
+C) Paxta terish mashinalari bilan
+D) Seyalka bilan
+Answer: A
+
+40) Gorizantal shpindel qanday harakat qiladi?
+A) O’z o’qi atrofida va baraban bilan aylanma harakat, mashina bilan ilgarlanma harakat, barabanga nisbatan kasseta yordamida harakat 
+B) Mashina bilan birga ilgarlanma harakat 
+C) O’z o’qi atrofida va baraban bilan aylanma harakat 
+D) O’z o’qi atorfida aylanma haraka 
+Answer: A 
+
+41) Gorizantal shpindelni ishchi aylanish tezligi qancha?
+A) 2100 – 2400 ayl/min
+B) 1800 – 2300 ayl/min
+C) 2200 – 2500 ayl/min
+D) 2500 – 3000 ayl/min
+Answer: A
+
+42) Gorizontal shpindelli paxta terish apparati MX-1.8 apparatiga nisbatan...?
+A) murakkab va qimmat
+B) texnik servis ishi qiyin
+C) og‘ir
+D) qimmat
+Answer: A
+
+43) Gorizontal shpindelga o’ralgan paxta qanday ajratib olinadi?
+A) Disk bilan sidiriladi va bunkerga tushiriladi
+B) shpindel sekinroq aylanganida o’zi tushadi
+C) kasseta burilganida inertsiya kuchi tushiradi
+D) shpindel tezroq aylanganida o’zi tushadi
+Answer: A
+
+44) Gorizontal shpindellarni yuvish uchun qanday suyuqlik ishlatiladi?
+A) yog’li va kirni tez yuvadigan eritma bilan
+B) filtrlangan suv
+C) oddiy sovun eritmasi
+D) kir yuvish vositasi
+Answer: A
+
+45) Gerbitsidlar nima uchun qo’llaniladi?
+A) Begona o’tlarni yo’qotishga 
+B) G’o’zalarni defolatsiya qilish 
+C) Hashoratlarni yo’qotish 
+D) O’simliklarni o’zlashtirish 
+Answer: A 
+
+46) Hamma mevali daraxtlardagi mevani uning shoxlarini dirillatib silkitish usuli bilan terish mumkinmi?
+A) Mumkin va albatta ildizlari sayoz rivojlanadigan daraxtlarni silkitish mumkin emas
+B) Har qanday daraxtni dirillatish mumkin
+C) Mevalari yerga to’kilganida yorilmaydigan daraxtni dirillatish mumkin
+D) Ildizlari o’ta chuqur ketadigan daraxtni dirillatish zararli
+Answer: A
+
+47) Kanal tozalaydigan mashinalar ishchi qismlarining turlari qanday bo’ladi?
+A) Shnekli, kurakchali, frezali, rotorli va kombinatsiyalashgan kovshli
+B) G’ildirakli, suzgichli, kombinatsiyalashgan
+C) Zanjirli, shesterinyali, rotorli
+D) Frezali, barabanli, rotorli
+Answer: A
+
+48) Kartoshka yig’ish mashinalarining elaklaydigan ishchi qismlari qaysi turlarga bo’linadi?
+A) Rotorli, elevatorli, g’alvirli va kombinatsiyalashgan
+B) Faqat rotorli
+C) Faqat elevatorli
+D) Rotorli, elevatorli
+Answer: A
+
+49) Ko’sak chuvish mashinasi harakatni qayerdan oladi?
+A) Traktordan va elektr yuritmadan
+B) Reduktordan
+C) Elektr yuritmadan
+D) Traktordan
+Answer: A
+
+50) Kombayn bilan poyalarni o’rish balandligi qanday omillarga bog’liq?
+A) dala relefiga, poyalarning qalinligiga va segmentning tebranma harakati tezligiga 
+B) o’rgich bashmog’ining balandligiga 
+C) segmentning tezligi 
+D) kombaynni yurish tezligiga 
+Answer: A 
+
+51) Konstruktsiyasi buyicha pluglar qanday bo’ladi?
+A) Lemexli, diskli, kombinatsiyalashgan, rotatsion va chizelli
+B) Lemexli, diskli
+C) Kombinatsiyalashgan
+D) Rotatsion, chizelli
+Answer: A
+
+52) Kusak chuvish mashinasi xarakatni qayerdan oladi?
+A) Traktorning quvvat olish validan va elektr yuritmadan
+B) Traktordan
+C) Elektr yuritmadan
+D) Reduktordan
+Answer: A
+
+53) Keys-2366 kombayni rotorining diametri qanchaga teng?
+A) 610 mm
+B) 500 mm
+C) 700 mm
+D) 760 mm
+Answer: A
+
+54) KXU-4 kultivator- oziqlantirgich qaysi vazifani bajaradi?
+A) G’o’za va boshqa chopiq qilinadigan ekinlarni qator oralariga ishlov beradi va o’g’it soladi
+B) Chigit ekadi
+C) Boshoqli ekinlarni ekadi
+D) Dukkakli ekinlarni ekadi, o’g’it solidi
+Answer: A
+
+55) KXU-4 mashinasi qaysi texnologik operatsiyalarni bajaradi?
+A) Qator orasini yumshatish, begona o’tlarni yo’qotish, o’g’it berish va sug’orish egatlarini olish
+B) Faqat o’g’it berish
+C) Qator orasini yumshatish
+D) Faqat begona o’tlarni yo’qotish
+Answer: A
+
+56) Makkajo’xori qay maqsadlar uchun yig’ib olinadi?
+A) Silosga va donga
+B) Faqat don uchun
+C) Faqat pichan uchun
+D) Faqat silos uchun
+Answer: A
+
+57) Mo’ljallanishiga ko’ra qanday seyalkalar bor?
+A) Universal va maxsus 
+B) Don ekish seyalkalari 
+C) Faqat maxsus 
+D) Faqat universal 
+Answer: A 
+
+58) Mevali daraxt hosilini teradigan mashina qanday ishlaydi?
+A) Daraxtni dirillatadi va hosilini silkitadi
+B) Mevalarni alohida-alohida uzub oladi
+C) Mevalarni pinematik apparati bilan teradi
+D) Mevalarni sidirib uzub oladi
+Answer: A
+
+59) Mexanik miqdorlaydigan apparatlarning qaysi turlari bor?
+A) Shtift-g’altakli, tarelkali, diskli va transportyorli
+B) Shtift-g’altakli
+C) Faqat tarelkali
+D) Faqat diskli
+Answer: A
+
+60) MX-1,8 mashinasi qatorlar oralig’iga kiritishdan oldin uning apparatini qanday tezligiga keltirish kerak?
+A) nominalga
+B) maksimal
+C) minimal
+D) kerakli
+Answer: A
+
+61) MX-1,8 paxta terish mashinasi yerga ko’proq paxta to’ksa qanday chora ko’riladi?
+A) shpindel chirklanganligi va ifloslanganligini tekshirish lozim
+B) ventilyator tasmasining tarangligini tekshirish kerak
+C) pnevmotransport quvurlari tiqilganligini ko’rish lozim
+D) shpindel tishlari yeyilgan
+Answer: A
+
+62) Nega ayrim pnevmatik seyalkalarda urug‘ni me’yorlab ajratish uchun bitta katta g‘altak qo‘yilgan?
+A) bir necha qator uchun ko‘proq urug‘ni katta g‘altak aniqroq ajratib berganiga 
+B) harakat uzatmasini soddalashtirish uchun 
+C) metall sarfini kamaytirish uchun 
+D) energiya sarfini kamaytirish uchun 
+Answer: A 
+
+63) Nega disksimon urug‘ ajratkichning burchak tezligi cheklanadi?
+A) disk katta tezlikda aylanadi va chetidagi uyaga urug‘ tushib ulgurmaydi, shuning uchun
+B) urug‘lar kamroq shikastlanishi uchun
+C) disk uyachalariga tushgan urug‘ u yerdan chiqib ulgurmasligi mumkin
+D) harakat uzatmasini imkoni yo‘q
+Answer: A
+
+64) Nega hamma zamonaviy seyalkalarda miqdorlagichga harakat faqat seyalka g‘ildiragi bilan uzatiladi?
+A) aks holda dalaning tuprog‘i o‘ta yumshoq joyida traktor g‘ildiragi ko‘proq toyib va aylanib qolishi hisobiga uyalar oralig‘i o‘zgarib ketadi
+B) arzonga tushadi, chunki yuritma soddalashadi
+C) traktorga tushadigan qarshilikni kamaytirish uchun
+D) uzatma qisqa bo‘ladi
+Answer: A
+
+65) Nega ikki yarusli plug zamonaviy hisoblanadi?
+A) Chuqur haydab begona o’tlarni to’liqroq ko’mib yuborganiga
+B) Qarshilik kuchi kamroq bo’lishi
+C) Ish unumi katta bo’lishi sababli
+D) Tuproqni ko’proq yumshatishi sababli
+Answer: A
+
+66) Nega O‘zbekistondagi issiq va qurg’oq iqlimda ishlatilayotgan g‘alla kombayni somon elagichi qiyin sharoitda bo‘ladi?
+A) qurg‘oq poyalar ko‘proq sinadi va maydalanib qolishi sababli 
+B) issiqda metal o‘lchamlari o‘zgarib qoladi 
+C) maydalangan somonga aralashgan donni elash qiyinlashadi 
+D) mayda somon klavisha elagini ko‘ziga tiqilib qoladi 
+Answer: A 
+
+67) Nega paxta terish mashinasidagi ventilyatorni yuritadigan tasmalar tarangligi ahamiyatga ega?
+A) tasma salqi bo‘lsa, ventilyasiya sekin aylanadi va paxtani quvur orqali so‘rib ololmaydi
+B) salqi tasmalar ko‘p sirpanib shkivni qizdirib qo‘yadi
+C) Taranglik pasaysa ko‘p quvvat befoyda sarflanadi
+D) tasma uzilib ketmasligi uchun
+Answer: A
+
+68) Nega plug korpusidagi tuproqni irg‘itish tezligi me’yorlanadi?
+A) korpus palaxsani past tezlikda irg‘itsa, oldingi ag‘darilgan palaxsaga yetib bormasdan qoladi va belgilangan talab bajarilmaydi 
+B) oldingi ag‘darilgan palaxsaga etib borib, zarb bilan uriladi 
+C) irg‘itish tezligi oz bo‘lsa energiya berilmaydi 
+D) tezlik katta bo‘lsa tuproq fontanga o‘xshab sochiladi 
+Answer: A 
+
+69) Nega sferik disklarning tig‘lari o‘yilgan bo‘ladi?
+A) nisbatan yo‘g‘on ildizlar qisiladi va yaxshi maydalanishi uchun
+B) metall sarfini kamaytirish uchun
+C) sudrashga qarshilikni kamaytirish uchun
+D) ishlash resursini oshirish uchun
+Answer: A
+
+70) Nega tez yurgan kombayn motovilosi sekin yurganga nisbatan sekinroq aylantiriladi?
+A) Poyalar motovilo yordamisiz ham inertsiya kuchi va kombaynning yuqori tezligi tufayli o‘rgich tomonga yiqiladi
+B) Aksincha, tezyurar kombayn motovilasi proporsional katta tezlikda aylantiriladi
+C) Tezyurar kombayn qismlari tez ishlashi kerak
+D) O‘riladigan poyani tirab turishi uchun
+Answer: A
+
+71) Nega tomchilatib sug‘orish zamonaviy hisoblanadi?
+A) chunki u resurstejamkor va o‘ta oz miqdorda suv sarflab ham namlikni ta’minlaydi
+B) dalani tekislash shart emas
+C) tomchilatib sug‘oriladigan energiyatejamkor
+D) suvga eritilgan dori ham tomchilar bilan yetkaziladi
+Answer: A
+
+72) Nega zamonaviy don seyalkalarida urug‘ miqdorlash g‘altagining aylanish tezligi o‘zgartiriladigan qilingan?
+A) Ekiladigan urug‘ miqdorini oz va ko‘p miqdorda o‘zgartirish uchun 
+B) Turli ekish me’yorini ta’minlash uchun 
+C) Urug‘lar shikastlanishini kamaytirish uchun 
+D) Ekish chuqurligini agregat tezligiga mos o‘zgartirish uchun 
+Answer: A 
+
+73) Nega zamonaviy plug agregatlanayotgan traktorga ballast yuk o‘rnatiladi?
+A) g‘ildiraklari yer bilan ilashish kuchini oshirish va traktorning old qismi yuqoriga ko‘tarilib kelmasligi uchun
+B) Traktor turg‘unligini ta’minlash uchun
+C) traktor tortish kuchini oshirish uchun
+D) g‘ildirak toyib ketmasligi uchun
+Answer: A
+
+74) Nega zamonaviy pluglarda korpuslar oralig‘i kengroq qilinadi?
+A) korpuslarni ramaga nisbatan buriladi va qamrov kengligini oshirish imkoni bo’ladi
+B) korpus katta tezlikda deformatsiyalangan palaxsa maydalanib hajmi ortadi
+C) tezkor korpusdan irg‘itilayotgan tuproq oldidagi korpusga tegib qolmaydi
+D) palaxsani ag‘darishga halaqit bermasligi uchun
+Answer: A
+
+75) NRU-0,5 mashinasini asosiy ishchi organi nima?
+A) Ilonizi shaklidagi o’g’it sepish plankasi va gorizantal aylanadigan sochish diski 
+B) Shnekli uzatgich taqsimlagich 
+C) Konussimon bunker, g’altakli apparat 
+D) Arrasimon to’zitgich va prujinali sepgich 
+Answer: A 
+
+76) Nega ajratish zonasiga keltirilgan shpindel teskari tomonga aylantiriladi?
+A) ajratkich cho’tkalari tishlarni orqa tomonidan uchiga qarab yuradi va tolani ajratib olish uchun
+B) shpindelga o’ralgan paxta inertsiya kuchi ta’sirida to’kilishi uchun
+C) paxtaning tishga ilashish kuchini kamaytirish uchun
+D) Yuritma tuzilishini oddiylashtirish uchun
+Answer: A
+
+77) Nega ajratkich cho’tkalarini bir-biriga yaqin qo’yib bo’lmaydi?
+A) paxta tolalari o’ralib qolishiga
+B) cho’tkalar bir-biriga xalakit qiladi
+C) cho’tkalarni qotirish qiyinlashadi
+D) ajratkich diametri katta bo’lib ketadi
+Answer: A
+
+78) Nega bog’larda ko’chat ekiladigan joy chuqur haydaladi?
+A) Chunki, daraxt ko’chatlarining ildizlari chuqur va pastga qarab tarmoqlanadi
+B) Chunki, daraxt ko’chatlari baland bo’ladi
+C) Chunki, suv ko’p ichmasligi lozim
+D) Chunki, o’g’it chuqur solinadi
+Answer: A
+
+79) Nega chigit ekishda disksimon ekkich qo’llanilmaydi?
+A) disksimon ekkich chigitni bir xil va aniq chuqurlikda ko’mib beraolmaydi 
+B) murakkab bo’lganligi uchun 
+C) sudrashga qarshiligi katta bo’ladi 
+D) disk pushta ustiga ekaolmaydi 
+Answer: A 
+
+80) Nega chigit seyalkasi ekkichi urug’ yotqiziladigan yo’lakni zichlab qo’yadi?
+A) ushbu joyning namligini oshirish va urug‘ni unib chiqishiga yetarli miqdorda namlikni saqlash uchun
+B) sudrashga qarshilikni kamaytirish uchun
+C) Chigitni ko’mish jarayonini yengillashtirish uchun
+D) chigit yon tomonga surilmasligi uchun
+Answer: A
+
+81) Nega gorizontal shpindel tezligini miqdori o’zgarib turadigan qilingan?
+A) Shpindelga o’ralgan paxtani oson va tez ajratib olish uchun
+B) shpindelga o’ralgan paxtaga ilashgan has-cho’pni ajratish uchun
+C) shpindelga o’ralgan paxtani ajratib olishni kamaytitirish uchun
+D) uning konstruktsiyasi shuni taqazo qiladi
+Answer: A
+
+82) Nega kombayn transmissiyasiga variator qo’yilgan?
+A) bug’doy poyalari siyrak va qalin o’sgan joylarda kombayn tezligini pog’onasiz o’zgartirish uchun
+B) operator ishini yengillashtirish uchun
+C) transmissiya foydali ish koeffitsienti katta bo’ladi
+D) kam energiya sarflanadi va kam joy oladi
+Answer: A
+
+83) Nega O’zbekistonda elevatorli kartoshka kovlagichdan foydalanish ma’qul?
+A) Tuproq sharoitiga mos keladi va tuzilishi sodda va arzon 
+B) tuzilishi sodda, arzon 
+C) hosildorlikka mos keladi 
+D) kartoshka navlariga mos keladi 
+Answer: A 
+
+84) Nega plantatsiyabop plug bilan o’ta chuqur haydash mumkin bo’ladi?
+A) Chunki korpusning ishchi sirti va chidamliliga shunga moslangan
+B) Chunki, plugda bitta korpus mavjud
+C) Chunki, chopiqsimon pichoq o’rnatilgan
+D) Chunki,chimqirqari chuqur haydaydi
+Answer: A
+
+85) Nega plug korpusi uch yonli ponaga o’xshatilib yasaladi?
+A) plug lemexi tuproqni pastdan va yon tomondan kesadi, ponasimon korpus esa ishlov berishni ta’minlaydi
+B) ag’darilayotgan tuproq maydalanadi
+C) maydalangan tuproq yumshatiladi
+D) ag’darish talab qilinmaydi
+Answer: A
+
+86) Nega qishloq xo’jaligi mashinalariga past bosimli shinali g’ildirak o’rnatiladi?
+A) tuproqni kamroq zichlash uchun va g’ildirakni tortish kuchini oshirish uchun
+B) g’ildirak tuproqqa chuqur botib ketmasligi uchun
+C) g’ildirakni tortish kuchini oshirish uchun
+D) yerga tegadigan yuzasi katta bo’lishi uchun
+Answer: A
+
+87) Nega sirpang’ichli ekkich parallelogrammsimon usulda ramaga ulanadi?
+A) har qanday chuqurlikda ishlatilsa ham engashish burchagi o’zgarmasligiga 
+B) sodda qurilma bo’lganligi uchun 
+C) sudrashga qarshiligi oshmasligi uchun 
+D) og’ir bo’lganligi uchun 
+Answer: A 
+
+88) Nega traktorga ballast yuk qo’yiladi?
+A) g’ildiraklarning yer bilan ilashish kuchini oshirish va ravon harakatini saqlash uchun
+B) traktorning tortish kuchini oshirish uchun
+C) traktorning turg’unligini yaxshilash uchun
+D) traktor quvvatidan to’liq foydalanish uchun
+Answer: A
+
+89) Nega vertikal shpindelli apparat bilan nam paxta terib bo’lmaydi?
+A) shpindel tez kirlanadi va tolalar bilan o’ralib qoladi
+B) shpindel tez kirlanadi
+C) shpindel tez zanglaydi
+D) yerga ko’p paxta to’kiladi
+Answer: A
+
+90) Nega vertikal shpindel tishiga ajratkich cho’tkasi botib turishi kerak?
+A) tishlar oralig’ini kirdan tozalaydi va tishga ilashgan paxtani sidirib tushiradi
+B) tishga ilashgan paxtani sidirib tushiradi
+C) shpindel sirtining ko’proq qismini tozalaydi
+D) texnologiya shuni taqoza etadi
+Answer: A
+
+91) Nega zamonaviy pluglarga tezkor korpuslar qo’yilmoqda?
+A) Plug sudrashga qarshiligi kam va ish unumini oshirish uchun 
+B) ular arzonroq bo’lishi uchun 
+C) ularning sudrashga qarshiligi kamroq bo’lgani uchun 
+D) universal bo’lganligi uchun 
+Answer: A 
+
+92) O’rish apparati segmentining bir tomonga yurish yo’lining miqdori nimaga ta’sir qiladi?
+A) O’rish balandligiga va o’rish sifatiga
+B) sarflanadigan quvvat miqdori
+C) segmentning tezligi
+D) o’rish sifati
+Answer: A
+
+93) OPX-28 moslamasining vazifasini ko’rsating?
+A) Ekinzorlarga va dalalarga zaharli dorilarni changlatish
+B) G’o’zalarni defolyatsiya qilish
+C) Zaharli dorilarni o’simliklarga purkash
+D) G’o’zalarni desikatsiya qilish
+Answer: A
+
+94) Osma plug ramasining gorizantalligi qanday sozlanadi?
+A) Traktorlardagi osma mexanizmining markaziy tortqisi va vertikal yon kashaklar uzunliklarini o’zgartirish yo’li bilan
+B) Gidrotsilindr porsheni yo’lining uzunligini o’zgartirish yo’li bilan
+C) Tayanch g’ildiragini ramaga nisbatan holatini o’zgartirish yo’li bilan
+D) Plug ramasini yangilash yoki uzaytirish bilan
+Answer: A
+
+95) OVX-28 moslamasining vazifasi nima?
+A) Ekinzorlarga va bog’larga dorilarni purkash, changlatish 
+B) Tuproq qatlamni 20 sm chuqurlikda dorilash 
+C) Zaharli dorilarni o’simliklarga changlatish 
+D) Urug’lik materiallarini ekishdan oldin dorilash 
+Answer: A 
+
+96) Paxta terish apparatini ishchi tirqishi kengligi qanday ahamiyatga ega?
+A) Tirqish kengligi me’yorida bo‘lsa, paxta ko‘p teriladi va aksincha
+B) O‘ta tor tirqishga g‘o‘za tupi kirmasdan qoladi
+C) Tirqish kengroq bo‘lsa paxta chala teriladi
+D) Tirqish torroq bo‘lsa ko‘saklar ko‘proq uzilib yerga to‘kiladi
+Answer: A
+
+97) Paxta terish apparati ajratkich cho’tkalarini soni qanday bo’lishi kerak?
+A) shpindel diametriga bog’liq va yonma-yon cho’tkalar uchlari paxta tolasi uzunligidan katta qo’yiladi
+B) ajratkich og’ir bo’lmasligi uchun minimal darajada
+C) shpindel diametriga bog’liq
+D) ajratkich cho’tkalarini o’lchamlariga bog’liq
+Answer: A
+
+98) Paxta terish apparati shpindeli diametri necha mm?
+A) 24 mm
+B) 50 mm
+C) 65 mm
+D) 20 mm
+Answer: A
+
+99) Paxta terish mashinasi ishchi organlari harakatini qayerdan oladi?
+A) Traktordan va ketingi quvvat olish validan 
+B) Traktorning yon quvvat olish validan 
+C) Mashina g’ildiragidan 
+D) Traktordan oladi 
+Answer: A 
+
+100) Paxtachilikda ishlatiladigan qanday mashinalar sabzavotchilikda ham ishlatiladi?
+A) Pluglar, seyalkalar, tirmalar va kultivatorlar
+B) Pluglar, pahta terish mashinasi
+C) Purkagichlar, seyalkalar, ko’sak chuvish mashinasi
+D) Chilpigichlar, pluglar
+Answer: A
+
+Subject: Traktor-transport
+
+1.  Rossiyalik Ya.V.Mamin tomonidan quvvati 16 dan 60 ot kuchigacha bo'lgan ichki yonuv dvigatellari qachon yaratilgan?
+    A) 1910- yil
+    B) 1920- yil
+    C) 1915- yil
+    D) 1911 yil
+    Answer: D
+
+2.  O'zbekiston hududida ishlatiladigan traktorlarni shartli ravishda necha bosqichga bo'lish mumkin?
+    A) 6 bosqichga
+    B) 7 bosqichga
+    C) 5 bosqichga
+    D) 4 bosqichga
+    Answer: C
+
+3.  Qishloq xo'jalik traktorlari qanday turlarga bo'linadi?
+    A) Maxsus
+    B) Universal-chopiq
+    C) Umumiy ishlarni bajarishga mo'ljallangan universal, universal-chopiq, maxsus va o'ziyurar traktorlarga
+    D) Ozi yurar
+    Answer: C
+
+4.  Avtomobillar qaysi xususiyatlari bo'yicha tasniflanadi?
+    A) Yolovchilar transporti, yuk tashish transporti va maxsus transport
+    B) Yolovchilar transporti, avtobus
+    C) Maxsus transportlar
+    D) Yuk tashish transporti, yengil avtomobil
+    Answer: A
+
+5.  Yolovchilar transportiga qaysi transportlari kiradi?
+    A) Avtobuslar
+    B) Yengil avtomobillar va yarim tirkamalar
+    C) Yolovchi tashishga mo'ljallangan tirkamalar
+    D) Yengil avtomobillar, avtobuslar, yo'lovchi tashishga mo'ljallangan tirkamalar, yarim tirkamalar
+    Answer: B
+
+6.  Yuk transportiga qaysi vositalar kiradi?
+    A) Tirkamalar, yarim tirkamalar
+    B) Yuk tashish avtomobillari, yuk tortishga mo'ljallangan-jihozlangan avtomobillar, tirkamalar va yarim tirkamalar
+    C) Yuk tortishga mo'ljallangan-jihozlangan avtomobillar
+    D) Yuk tashish avtomobillari, tirkamalar
+    Answer: B
+
+7.  Dvigatellar silindrlarining ishchi hajmi bo'yicha yengil avtomobillar necha sinfga bo'linadi?
+    A) 5 sinfga
+    B) 4 sinfga
+    C) 6 sinfga
+    D) 7 sinfga
+    Answer: A
+
+8.  Tiko avtomobili dvigateli qanday joylashgan?
+    A) Tik
+    B) Burchak ostida
+    C) Kondalang
+    D) Yotiq
+    Answer: C
+
+9.  TTZ-100 K.11 traktoriga qaysi dvigatel o'rnatilgan?
+    A) D-3
+    B) 4 VT-3,9A
+    C) D-144
+    D) D-120
+    Answer: B
+
+10. Damas va Matiz yengil avtomobillariga qaysi rusumdagi dvigatel o'rnatilgan?
+    A) F7 C
+    B) F8 CB
+    C) D-TEC
+    D) G15 ME
+    Answer: B
+
+11. TTZ-100 K.10 traktori dvigatelining ish hajmi qanchaga teng?
+    A) 4,9
+    B) 4,1
+    C) 3,1
+    D) 3,9
+    Answer: D
+
+12. T-4A.02 zanjirli traktoriga qaysi rusumdagi dvigatel o'rnatilgan?
+    A) KamAZ 740.03-135
+    B) A-00 MS
+    C) A-01 MSI
+    D) D-461-11
+    Answer: C
+
+13. Dvigatel qanday mashina?
+    A) Elektr, gidravlik energiyaga aylantirib beradigan mashina
+    B) Mexanik energiyaga aylantirib beradigan mashina
+    C) Issiqlik energiyasiga aylantirib beradigan mashina
+    D) Issiqlik, elektr va gidravlik energiyalarni mexanik ishga aylantirib beradigan mashina
+    Answer: D
+
+14. Qo'llaniladigan yoqilg'i turi bo'yicha IYODlar qanday turlarga bo'linadi?
+    A) Benzinda ishlaydigan
+    B) Benzinda ishlaydigan, dizel yonilg'isida ishlaydigan, siqilgan yoki suyultirilgan gazda ishlaydigan
+    C) Dizel yonilg'isida ishlaydigan
+    D) Siqilgan, suyultirilgan gazda ishlaydigan
+    Answer: B
+
+15. Porshenli IYODlar necha mexanizm va necha tizimdan iborat bo'ladi?
+    A) 1 ta mexanizm, 4 ta tizimdan
+    B) 3 ta mexanizm, 7 ta tizimdan
+    C) 2 ta mexanizm, 5 ta tizimdan
+    D) 4 ta mexanizm, 6 ta tizimdan
+    Answer: C
+
+16. 4 takli dvigatellarda ish tsikli valni necha marta aylanishida sodir bo'ladi?
+    A) 3 marta
+    B) 2 marta
+    C) 1 marta
+    D) 4 marta
+    Answer: B
+
+17. To'rt takli dvigatelining ish tsikli ketma-ketligi qanday amalga oshiriladi?
+    A) Chiqarish, kengayish, siqish, kiritish
+    B) Kiritish, siqish, kengayish va chiqarish
+    C) Kengayish, chiqarish, siqish, kiritish
+    D) Siqish, kengayish, kiritish, chiqarish
+    Answer: B
+
+18. To'rt takli karbyuratorli dvigatellarining chiqarish taktida harorat nechaga teng bo'ladi?
+    A) 600-1000 K
+    B) 700-1100 K
+    C) 900-1500 K
+    D) 800-1300 K
+    Answer: B
+
+19. To'rt takli dizelli dvigatellarning siqish taktida harorat nechaga teng bo'ladi?
+    A) 2200-2800 K
+    B) 1900-2400 K
+    C) 1800-2200 K
+    D) 2000-2500 K
+    Answer: B
+
+20. Dizel silindrlariga kiritilayotgan havoning og'irligini oshirish uchun qanday usul keng qo'llaniladi?
+    A) Puflash usuli keng qo'llanilgan
+    B) Siqish usuli keng qo'llaniladi
+    C) Haydash usuli keng qo'llaniladi
+    D) Preslash usuli keng qo'llaniladi
+    Answer: A
+
+21. Turbo kompressor hosil qilgan puflanayotgan havo bosimi nima yordamida rostlanadi?
+    A) Drossel yordami
+    B) Jiklyor yordami
+    C) Avtomatik klapan yordamida
+    D) Drossel va Jiklyor yordami
+    Answer: C
+
+22. Puflab tozalanadigan ikki taktli karbyuratorli dvigatellar silindrlari devorlarida nechta darcha mavjud bo'ladi?
+    A) Puflab tozalash, chiqarish, kiritish, haydash
+    B) Kiritish, puflab tozalash va chiqarish
+    C) Kiritish, chiqarish
+    D) Puflab tozalash, chiqarish, haydash
+    Answer: B
+
+23. Ko'p silindrli dvigatellarda silindrlar qanday joylashtiriladi?
+    A) Tik joylashgan, V simon
+    B) Bir qator tik joylashgan, ikki qator V simon va bir-biriga nisbatan 1800
+    C) Ikki qator V simon, bir-biriga nisbatan 3600 da joylashgan
+    D) Bir qator tik joylashgan, V simon, bir-biriga nisbatan 5400 da joylashgan
+    Answer: B
+
+24. Karter ventilyatsiyasining vazifasi nimadan iborat?
+    A) Karterdagi bosimni chiqarib yuborish
+    B) Karterdagi gazlarning dvigatelga kirishini ta'minlash
+    C) Yonilg'i sarfini kamaytirish
+    D) Karterdan chiqadigan gazlarni zaharli bo'lmagan darajaga keltirish va ularni atmosferaga chiqarib yuborish
+    Answer: D
+
+25. Agregatlarning mustahkamligini ta'minlash uchun qanday usullar qo'llaniladi?
+    A) Korpuslarning mustahkamligini oshirish
+    B) Detallarni termik ishlash
+    C) Mexanik ishlov berish
+    D) Soxtalashtirish, shtamplash va termik ishlash
+    Answer: D
+
+26. Yuqori chastotali ishlash usuli qanday detallar uchun qo'llaniladi?
+    A) Yuqori yuklamali detallar uchun
+    B) Deformatsiyalangan detallar uchun
+    C) Past yuklamali detallar uchun
+    D) Yuqori yuklamaga ishlaydigan detallarni mustahkamlash uchun
+    Answer: D
+
+27. Qo'l asboblari va uskunalari qaysi texnikalarda ishlatiladi?
+    A) Mexanizatsiyalashgan traktorlarda
+    B) Agregatlarda
+    C) Traktor va avtomobillarda
+    D) Faqat qo'l asboblari uchun
+    Answer: C
+
+28. Traktorlar sinov maydonlarida qanday usullarda sinovdan o'tkaziladi?
+    A) Ishonchliligi va mustahkamligi sinovlari
+    B) Laboratoriya va dala sharoitida sinov
+    C) Ishlash sharoitida sinov
+    D) Laboratoriya, dala sharoitida va ekspluatatsiyada
+    Answer: D
+
+29. Olingan ma'lumotlarning aniqligi va samaradorligini ta'minlash uchun nimalar qo'llaniladi?
+    A) Maxsus moslamalar
+    B) Kompyuter dasturlari
+    C) Maxsus o'lchov asboblari va moslamalar
+    D) O'lchov asboblari
+    Answer: C
+
+30. Traktor dvigatelida quvvatni olib ketish vali qanday vazifani bajaradi?
+    A) Boshqarish tizimiga quvvat uzatadi
+    B) Orqa g'ildiraklarga quvvat uzatadi
+    C) Old g'ildiraklarga quvvat uzatadi
+    D) Ish mashinalarining ishchi qismlarini harakatga keltiradi
+    Answer: D
+
+31. Traktorning dvigatelida maksimal quvvatga erishish uchun dvigatelning ishlash rejimi qanday bo'lishi kerak?
+    A) Minimal tezlikda
+    B) O'rtacha tezlikda
+    C) Maksimal tezlikda
+    D) Nominal tezlikda
+    Answer: D
+
+32. Universal-chopiq traktorlarining quvvati qanday oralig'da bo'ladi?
+    A) 50 dan 100 ot kuchigacha
+    B) 100 dan 200 ot kuchigacha
+    C) 20 dan 50 ot kuchigacha
+    D) 200 dan ortiq ot kuchigacha
+    Answer: C
+
+33. Avtomobil dvigatelining nominal aylanishlar soni necha?
+    A) 3000-4000 ayl/min
+    B) 1000-2000 ayl/min
+    C) 4000-6000 ayl/min
+    D) 2000-3000 ayl/min
+    Answer: A
+
+34. Avtomobillarning harakatlanishiga nimalar to'sqinlik qiladi?
+    A) Havoning qarshiligi va g'ildiraklarning qarshiligi
+    B) Tog'li hududlarda
+    C) Shamol yo'nalishi
+    D) Yo'l qarshiligi va havo qarshiligi
+    Answer: D
+
+35. Avtomobilning samaradorligini oshirish uchun nimalar muhim?
+    A) Yuqori tezlik
+    B) Yoqilg'i iste'molini kamaytirish
+    C) Og'irligini oshirish
+    D) Og'irligini kamaytirish va dvigatel quvvatini oshirish
+    Answer: D
+
+36. Osma uskunalar qanday traktorlarga o'rnatiladi?
+    A) Maxsus traktorlarga
+    B) Umumiy foydalanish traktorlariga
+    C) G'ildirakli traktorlarga
+    D) Har qanday traktorga
+    Answer: D
+
+37. Osma uskunalarning afzalliklari nimalardan iborat?
+    A) Qulaylik va iqtisodiy samaradorlik
+    B) Yuqori ishlash samaradorligi
+    C) Mexanik qismlarning soddaligi
+    D) Boshqarishning qulayligi va kam texnik xizmat
+    Answer: D
+
+38. Osma uskunalarni traktorga ulashda nimalar e'tiborga olinadi?
+    A) Traktorning turi va quvvati
+    B) Uskunaning vazni va o'lchamlari
+    C) Ish bajarish sharoiti
+    D) Traktorning maksimal yuklama ko'tarish qobiliyati va uskunaning geometrik o'lchamlari
+    Answer: D
+
+39. Osma uskunalarni sozlashda nimalar e'tiborga olinadi?
+    A) Ishlash chuqurligi va kengligi
+    B) Ishlash tezligi va yoqilg'i iste'moli
+    C) Traktorning tortish kuchi va shinalar bosimi
+    D) Ishlash chuqurligi, kengligi va agregatning muvozanati
+    Answer: D
+
+40. Mexanik uzatma qutisi qanday vazifani bajaradi?
+    A) Dvigatel aylanishlar sonini rostlash
+    B) Dvigatel quvvatini oshirish
+    C) Harakat yo'nalishini o'zgartirish
+    D) Dvigatelning aylanish chastotasini va burilish momentini o'zgartirish
+    Answer: D
+
+41. Uzatma qutisida valli uzatmalar qanday ishlaydi?
+    A) Bir-biriga nisbatan harakatlanadi
+    B) Tishli g'ildiraklar yordamida harakat uzatadi
+    C) Valar o'z o'qida aylanadi
+    D) Harakatni bir vadan boshqasiga uzatadi
+    Answer: D
+
+42. Uzatma qutisida differensial nima uchun ishlatiladi?
+    A) Burilishda g'ildiraklarning tezligini bir xil saqlash uchun
+    B) G'ildiraklarga bir xil quvvat uzatish uchun
+    C) G'ildiraklarning burilish tezligini o'zgartirish uchun
+    D) Burilishda g'ildiraklarning turli tezliklarda aylanishini ta'minlash uchun
+    Answer: D
+
+43. Tormoz tizimi qanday vazifani bajaradi?
+    A) Transport vositasining tezligini oshirish
+    B) Harakatni boshlash
+    C) Transport vositasini to'xtatish yoki tezligini kamaytirish
+    D) Transport vositasining harakat yo'nalishini o'zgartirish
+    Answer: C
+
+44. Tormoz tizimining asosiy turlari qanday?
+    A) Gidravlik va pnevmatik
+    B) Mexanik va gidravlik
+    C) Faqat mexanik
+    D) Mexanik, gidravlik va pnevmatik
+    Answer: D
+
+45. Avtomobillarda ishlatiladigan gidravlik tormoz tizimining afzalliklari nimada?
+    A) Oddiy tuzilish va arzonlik
+    B) Yuqori samaradorlik va tezkor harakat
+    C) Kam ta'mirlash ehtiyoji
+    D) Qulay va ishonchli ishlash
+    Answer: D
+
+46. Rul boshqaruvi tizimining asosiy vazifasi nima?
+    A) Transport vositasini to'xtatish
+    B) Tezlikni oshirish
+    C) Harakat yo'nalishini o'zgartirish
+    D) Transport vositasining harakat yo'nalishini saqlash
+    Answer: C
+
+47. Rul boshqaruvi tizimining asosiy qismlari qanday?
+    A) Rul chambaragi, rul reduktori va tortgichlar
+    B) Rul chambaragi va rul reduktori
+    C) Rul chambaragi va tortgichlar
+    D) Rul reduktori va tortgichlar
+    Answer: A
+
+48. Rul reduktori qanday vazifani bajaradi?
+    A) Rul chambaragini harakatlantiradi
+    B) Rul harakatini tortgichlarga uzatadi
+    C) Rul harakatini kuchaytiradi va uzatadi
+    D) Rul tizimini to'g'irlaydi
+    Answer: C
+
+49. Avtomobil shinalarining bosimi nima uchun muhim?
+    A) Tezlikni oshirish uchun
+    B) Yuqori yoqilg'i iste'moli uchun
+    C) Harakat xavfsizligini ta'minlash va shina yemirilishini kamaytirish uchun
+    D) Shina ishlash muddatini qisqartirish uchun
+    Answer: C
+
+50. G'ildiraklarning yo'l bilan ilashish qobiliyatiga nimalar ta'sir qiladi?
+    A) Yo'l sirtining holati va shina shakli
+    B) Yo'lning namligi va shinaning rangi
+    C) Shinaning diametri va havo bosimi
+    D) Shinaning protektori shakli va chuqurligi
+    Answer: D
+
+51. Qishloq xo'jaligi texnikalarida g'ildirak o'lchamlari qanday ahamiyatga ega?
+    A) Ishlash tezligiga ta'sir qiladi
+    B) Tuproqning zichlanish darajasiga ta'sir qiladi
+    C) Yoqilg'i iste'moliga ta'sir qiladi
+    D) Agregatning barqarorligiga ta'sir qiladi
+    Answer: B
+
+52. Traktorning tortish kuchi nimalarga bog'liq?
+    A) Dvigatel quvvatiga va traktor og'irligiga
+    B) Shina bosimiga va tezlikka
+    C) Yerning holatiga va ob-havo sharoitiga
+    D) Dvigatel quvvati, uzatma qutisining samaradorligi va g'ildiraklar ilashishiga
+    Answer: D
+
+53. Traktorning barqarorligini oshirish uchun qanday choralar qo'llaniladi?
+    A) Og'irligini kamaytirish
+    B) Balansni o'zgartirish
+    C) Og'irlik markazini pastga tushirish va g'ildiraklar bazasini kengaytirish
+    D) Tezlikni oshirish
+    Answer: C
+
+54. Traktorning burilish radiusi nima uchun muhim?
+    A) Daladagi ish unumdorligini oshirish
+    B) Yuqori tezlikka erishish
+    C) Yoqilg'i sarfini kamaytirish
+    D) Boshqarish qulayligini ta'minlash
+    Answer: A
+
+55. Traktorning yuk ko'tarish qobiliyati nimalarga bog'liq?
+    A) Dvigatel quvvatiga va shina bosimiga
+    B) G'ildiraklar soniga va diametriga
+    C) Osma tizimining mustahkamligiga va gidravlik tizimning quvvatiga
+    D) Traktorning umumiy og'irligiga
+    Answer: C
+
+56. Traktor va avtomobillarda elektr tizimi qanday vazifani bajaradi?
+    A) Mexanik harakatni ta'minlash
+    B) Yoqilg'ini tejash
+    C) Dvigatelni ishga tushirish, yoritish va qo'shimcha uskunalar ishlashini ta'minlash
+    D) Tormoz tizimini boshqarish
+    Answer: C
+
+57. Akkumulyator batareyasining asosiy vazifasi nima?
+    A) Elektr energiyasini ishlab chiqarish
+    B) Elektr energiyasini saqlash va ishga tushirishda dvigatelga quvvat berish
+    C) Elektr zaryadini oshirish
+    D) Yuqori kuchlanishni ta'minlash
+    Answer: B
+
+58. Generatorning asosiy vazifasi nima?
+    A) Elektr energiyasini iste'mol qilish
+    B) Mexanik energiyani elektr energiyasiga aylantirish va akkumulyatorni zaryadlash
+    C) Elektr tokini o'zgartirish
+    D) Elektr zanjirini himoya qilish
+    Answer: C
+
+59. Starter nima uchun ishlatiladi?
+    A) Dvigatelni to'xtatish uchun
+    B) Dvigatelni ishga tushirish uchun
+    C) Elektr zanjirini ochish uchun
+    D) Batareyani zaryadlash uchun
+    Answer: B
+
+60. Yoritish tizimining asosiy vazifasi nima?
+    A) Transport vositasini chiroyli qilish
+    B) Ko'rinishni yaxshilash va xavfsiz harakatni ta'minlash
+    C) Yoqilg'ini tejash
+    D) Signal berish
+    Answer: B
+
+61. Elektr tizimida simlarning kesimi nima uchun muhim?
+    A) Simning uzunligini aniqlash
+    B) Simning rangini belgilash
+    C) Tok o'tkazish qobiliyatini ta'minlash va qizib ketishni oldini olish
+    D) Simning narxini belgilash
+    Answer: C
+
+62. Elektr tizimida sug'urta nima uchun ishlatiladi?
+    A) Elektr toki kuchini oshirish
+    B) Elektr zanjirini qisqa tutashuvdan himoya qilish
+    C) Tok o'tishini tezlashtirish
+    D) Quvvatni sozlash
+    Answer: B
+
+63. Traktorning gidravlik tizimining asosiy vazifasi nima?
+    A) Ishchi organlarni harakatga keltirish va boshqarish
+    B) Dvigatelni sovutish
+    C) Tormoz tizimini boshqarish
+    D) Elektr energiyasini ishlab chiqarish
+    Answer: A
+
+64. Gidravlik nasosning vazifasi nima?
+    A) Yog'ni sovutish
+    B) Yog' bosimini oshirish
+    C) Yog'ni filtratsiya qilish
+    D) Yog'ni uzatish
+    Answer: B
+
+65. Gidravlik silindr nima uchun ishlatiladi?
+    A) Yog' bosimini saqlash
+    B) Mexanik harakatni ta'minlash
+    C) Yog'ni to'plash
+    D) Bosim ostidagi yog'ni mexanik harakatga aylantirish
+    Answer: D
+
+66. Gidravlik klapanlar qanday vazifani bajaradi?
+    A) Yog' oqimini tartibga solish va yo'naltirish
+    B) Yog'ni sovutish
+    C) Yog'ni isitish
+    D) Yog' bosimini pasaytirish
+    Answer: A
+
+67. Gidravlik tizimda filtr nima uchun muhim?
+    A) Yog'ning bosimini oshirish
+    B) Yog'ning haroratini tartibga solish
+    C) Yog'ni tozalash va tizimning uzoq ishlashini ta'minlash
+    D) Yog'ning rangini o'zgartirish
+    Answer: C
+
+68. Pnevmatik tizimning asosiy vazifasi nima?
+    A) Bosim ostidagi suyuqlikni uzatish
+    B) Bosim ostidagi havoni uzatish va ishchi organlarni harakatga keltirish
+    C) Elektr signallarini uzatish
+    D) Mexanik harakatni uzatish
+    Answer: B
+
+69. Kompressorning vazifasi nima?
+    A) Havoni sovutish
+    B) Havoni tozalash
+    C) Havoni bosim ostida siqish
+    D) Havoni namlash
+    Answer: C
+
+70. Pnevmatik silindr nima uchun ishlatiladi?
+    A) Havoni saqlash
+    B) Bosim ostidagi havoni mexanik harakatga aylantirish
+    C) Havoni quritish
+    D) Havoni isitish
+    Answer: B
+
+71. Pnevmatik klapanlar qanday vazifani bajaradi?
+    A) Havoning haroratini rostlash
+    B) Havoning bosimini oshirish
+    C) Havoning oqimini tartibga solish va yo'naltirish
+    D) Havoni tozalash
+    Answer: C
+
+72. Pnevmatik tizimda havo quritgich nima uchun muhim?
+    A) Havoni isitish uchun
+    B) Havoni tozalash uchun
+    C) Havodagi namlikni yo'qotish va tizim elementlarining korroziyasini oldini olish uchun
+    D) Havoning bosimini rostlash uchun
+    Answer: C
+
+73. Transport vositalarida shassi nima uchun muhim?
+    A) Tashqi ko'rinishni ta'minlash
+    B) Dvigatelni o'rnatish
+    C) Transport vositasining asosiy tuzilishini ta'minlash va barcha asosiy agregatlarni joylashtirish
+    D) Yoritish tizimini o'rnatish
+    Answer: C
+
+74. Shassi tarkibiga nimalar kiradi?
+    A) Dvigatel, uzatma qutisi, tormoz tizimi va rul boshqaruvi
+    B) Kuzov, salon va g'ildiraklar
+    C) Ramka, osma, g'ildiraklar, rul boshqaruvi, tormoz tizimi va uzatma
+    D) Dvigatel va kuzov
+    Answer: C
+
+75. Ramka qanday vazifani bajaradi?
+    A) Kuzovni himoya qilish
+    B) Dvigatelni o'rnatish
+    C) Barcha agregatlarni biriktirish va yuklamalarni qabul qilish
+    D) G'ildiraklarni ushlab turish
+    Answer: C
+
+76. Osma tizimi nima uchun ishlatiladi?
+    A) Transport vositasini turg'un qilish
+    B) G'ildiraklarga quvvat uzatish
+    C) Yo'l notekisliklaridan keladigan zarbalarni yumshatish va boshqaruvchanlikni ta'minlash
+    D) Tormozlash samaradorligini oshirish
+    Answer: C
+
+77. Amortizatorning vazifasi nima?
+    A) Avtomobilning og'irligini ko'tarish
+    B) Zarbalarni kuchaytirish
+    C) Tebranishlarni yumshatish va yo'l bilan ilashishni yaxshilash
+    D) Rul boshqaruvini osonlashtirish
+    Answer: C
+
+78. Universal-chopiq traktorlari qanday ishlarni bajarishga mo'ljallangan?
+    A) Tuproqqa ishlov berish va ekinlarni ekish
+    B) Ekinlarni parvarishlash va hosilni yig'ish
+    C) Umumiy ishlarni bajarish va chopiq qatorlarga ishlov berish
+    D) Og'ir yuklarni tashish
+    Answer: C
+
+79. Maxsus traktorlar qanday maqsadlarda ishlatiladi?
+    A) Umumiy qishloq xo'jaligi ishlarini bajarish
+    B) Faqat tuproqqa ishlov berish
+    C) Muayyan turdagi ishlarni bajarish (masalan, bog'dorchilik, paxtachilik)
+    D) Yuk tashish
+    Answer: C
+
+80. O'ziyurar shassi qanday xususiyatlarga ega?
+    A) Universal va yuqori tezlikka ega
+    B) Katta yuk ko'tarish qobiliyatiga ega
+    C) Turli xil qishloq xo'jaligi mashinalarini o'rnatishga mo'ljallangan
+    D) Faqat bitta turdagi ishni bajarishga mo'ljallangan
+    Answer: C
+
+81. Traktorning torki nima?
+    A) Dvigatelning aylanish tezligi
+    B) Dvigatelning quvvati
+    C) Dvigatel tomonidan ishlab chiqariladigan burilish momenti
+    D) Dvigatelning yoqilg'i iste'moli
+    Answer: C
+
+82. Traktorning quvvat olish vali (QOV) nima uchun ishlatiladi?
+    A) Dvigatelni ishga tushirish uchun
+    B) Traktorning harakatini ta'minlash uchun
+    C) Ish mashinalarining ishchi organlarini harakatga keltirish uchun
+    D) Tormoz tizimini boshqarish uchun
+    Answer: C
+
+83. Traktorning osma mexanizmi nima uchun ishlatiladi?
+    A) Qo'shimcha yuklarni tashish uchun
+    B) Ish mashinalarini traktorga ulash va ularning ish holatini rostlash uchun
+    C) Traktorning barqarorligini oshirish uchun
+    D) Yoqilg'i sarfini kamaytirish uchun
+    Answer: B
+
+84. Traktorning gidravlik tizimida ishlatiladigan moy turi qanday bo'lishi kerak?
+    A) Past viskoziteli
+    B) Yuqori viskoziteli
+    C) Maxsus gidravlik moy
+    D) Dvigatel moyi
+    Answer: C
+
+85. Traktorning elektr tizimida generator va akkumulyator o'rtasidagi asosiy farq nima?
+    A) Generator tokni ishlab chiqaradi, akkumulyator esa uni saqlaydi
+    B) Generator tokni saqlaydi, akkumulyator esa uni ishlab chiqaradi
+    C) Ikkisi ham bir xil vazifani bajaradi
+    D) Generator mexanik, akkumulyator esa elektr quvvatini beradi
+    Answer: A
+
+86. Traktorning sovutish tizimining vazifasi nima?
+    A) Dvigatelni isitish
+    B) Dvigatelning haroratini optimal darajada saqlash
+    C) Yog'ni sovutish
+    D) Yoqilg'ini sovutish
+    Answer: B
+
+87. Traktorning yoqilg'i tizimining asosiy vazifasi nima?
+    A) Dvigatelni moylash
+    B) Dvigatelga yoqilg'i yetkazib berish va uning yonishini ta'minlash
+    C) Dvigatelni sovutish
+    D) Elektr energiyasini ishlab chiqarish
+    Answer: B
+
+88. Traktorning moylash tizimining vazifasi nima?
+    A) Detallarni sovutish
+    B) Ishqalanishni kamaytirish va detallarni yeyilishdan himoya qilish
+    C) Dvigatelning haroratini rostlash
+    D) Yoqilg'ini filtrlash
+    Answer: B
+
+89. Traktorning tormoz tizimida ishlatiladigan tormoz suyuqligi qanday bo'lishi kerak?
+    A) Oddiy suv
+    B) Antifriz
+    C) Maxsus tormoz suyuqligi
+    D) Dvigatel moyi
+    Answer: C
+
+90. Traktorning rul boshqaruvi tizimida люфт (bo'shliq) nima uchun yomon?
+    A) Boshqaruvni qulaylashtiradi
+    B) Boshqaruv aniqligini pasaytiradi va xavfsizlikka ta'sir qiladi
+    C) Yoqilg'i sarfini kamaytiradi
+    D) Tezlikni oshiradi
+    Answer: B
+
+91. Traktorning texnik xizmat ko'rsatishining asosiy maqsadi nima?
+    A) Tashqi ko'rinishini yaxshilash
+    B) Ishlash muddatini qisqartirish
+    C) Ishlash samaradorligini oshirish va nosozliklarni oldini olish
+    D) Faqat yoqilg'ini almashtirish
+    Answer: C
+
+92. Texnik diagnostika nima uchun o'tkaziladi?
+    A) Nosozliklarni aniqlash va ularni bartaraf etish
+    B) Traktorning rangini o'zgartirish
+    C) Faqat tashqi ko'rinishini baholash
+    D) Yoqilg'i sarfini aniqlash
+    Answer: A
+
+93. Traktorning ishlash jarayonida qanday xavfsizlik qoidalariga rioya qilish kerak?
+    A) Tezlikni maksimal darajada oshirish
+    B) Himoya vositalaridan foydalanmaslik
+    C) Ishlash paytida texnik xavfsizlik qoidalariga qat'iy rioya qilish
+    D) Ogohlantirish belgilariga e'tibor bermaslik
+    Answer: C
+
+94. Traktorning dvigateli haddan tashqari qizib ketsa, nima qilish kerak?
+    A) Ishlashni davom ettirish
+    B) Dvigatelni to'xtatish va sovutish tizimini tekshirish
+    C) Tezlikni oshirish
+    D) Yoqilg'ini almashtirish
+    Answer: B
+
+95. Traktor shinalarining eskirishi nimalarga bog'liq?
+    A) Ishlash tezligiga va yo'l holatiga
+    B) Ob-havo sharoitiga
+    C) Shina bosimiga va ishlatish sharoitiga
+    D) Shinaning rangiga
+    Answer: C
+
+96. Traktorning moy almashtirish intervali nimalarga bog'liq?
+    A) Dvigatelning turi va moyning sifati
+    B) Yoqilg'i sarfiga
+    C) Ob-havo sharoitiga
+    D) Traktorning rangi
+    Answer: A
+
+97. Traktorning elektr tizimida qisqa tutashuv yuzaga kelsa, nima qilish kerak?
+    A) Ishlashni davom ettirish
+    B) Elektr ta'minotini uzish va nosozlikni bartaraf etish
+    C) Akkumulyatorni almashtirish
+    D) Dvigatelni to'xtatish
+    Answer: B
+
+98. Traktorning tormoz tizimida bosim pasaysa, nima qilish kerak?
+    A) Ishlashni davom ettirish
+    B) Tormoz suyuqligini to'ldirish va tizimni tekshirish
+    C) Tezlikni oshirish
+    D) Rulni tekshirish
+    Answer: B
+
+99. Traktorning rul boshqaruvi qiyinlashsa, nima qilish kerak?
+    A) Ishlashni davom ettirish
+    B) Rul boshqaruvi tizimini tekshirish va nosozlikni bartaraf etish
+    C) Tezlikni oshirish
+    D) Tormozni tekshirish
+    Answer: B
+
+100. Traktorning transmissiyasida g'o'ng'illagan ovoz paydo bo'lsa, nima qilish kerak?
+    A) Ishlashni davom ettirish
+    B) Transmissiyani tekshirish va ta'mirlash
+    C) Tezlikni oshirish
+    D) Dvigatelni tekshirish
+    Answer: B
+
+    Subject: QXTF_TS
+
+1.  Qishloq xo'jaligi ishlab chiqarishini mexanizatsiyalashtirishning asosiy maqsadi bu qishloq xo'jaligi mahsulotlarini yetishtirishda ......... sarfini kamaytirishdan iborat. 
+    A) yoqilgi
+    B) ogit
+    C) mehnatga
+    D) urug
+    Answer: C 
+
+2.  Qishloq xo'jaligi ishlab chiqarishini mexanizatsiyalashtirishning asosiy vazifasi - bu har bir texnologik ishning ................... bajarilishini ta'minlash hisoblanadi.
+    A) katta tezlikda
+    B) belgilangan muddatdagi
+    C) kam harajat bilan
+    D) yuqori sifat bilan
+    Answer: B 
+
+3.  Ishlab chiqarishni mexanizatsiyalashni rivojlantirishda inson omiliga bog'liq yo'nalishni ayting.
+    A) texnikalar bilan uzliksiz ta'minlash
+    B) servis xizmatini yaxshilash
+    C) yangi texnikalar ishlab chiqarish
+    D) yuqori malakali mutaxassislar tayyorlash
+    Answer: D 
+
+4.  Intensiv usulda qishloq xo'jaligi mahsulotlarining hajmini ko'paytirish ekinlar ................. hisobiga erishiladi.
+    A) sug'orish ishlarini yaxshilash
+    B) dala o'lchamlarini kattalashtirish
+    C) hosildorligini oshirishga
+    D) ekinlar maydonini kengaytirish
+    Answer: C 
+
+5.  Texnologiya bu.......... sifatdagi mahsulotni olish uchun amalga oshiriladigan biologik, kimyoviy, fizik va agrotexnik jarayonlar yig'indisidir. 
+    A) o'rta
+    B) yuqori
+    C) past
+    D) belgilanganga
+    Answer: D 
+
+6.  Ishlab chiqarish jarayoni bu talab etilgan sifatga javob beradigan mahsulot olish maqsadida mashina va mexanizmlar tomonidan belgilangan rejimda va ................ bajariladigan ishlar jamlanmasiga aytiladi.
+    A) ketma-ket
+    B) to'xtovsiz
+    C) agrotexnik muddatdagi
+    D) yuqori tezlikda
+    Answer: C 
+
+7.  Mexanizatsiyalashtirilgan dala ishlarini bajaradigan asosiy vosita bu ................................ hisoblanadi. 
+    A) traktor
+    B) qishloq xo'jalik mashinasi
+    C) mashina-traktor agregatiga
+    D) yordamchi qurilmalar
+    Answer: C 
+
+8.  Traktorning vazifasi qishloq xo'jalik mashinasining ...................dan iborat.
+    A) energiya bilan ta'minlash
+    B) ishchi qismlarini harakatga keltirish
+    C) ko'chib yurishini ta'minlash
+    D) ko'chib yurishini ta'minlash va uning ishchi qismlarini harakatga keltirish
+    Answer: D 
+
+9.  Bog' va uzumzorlarda ishlatiladigan traktorlar qaysi turga kiradi? 
+    A) transport
+    B) universal
+    C) maxsusga
+    D) haydov
+    Answer: C 
+
+10. Traktor shataksiragan paytda uning tezligi qanday bo'ladi?
+    A) yo'qoladi
+    B) kamayadigan
+    C) oshadi
+    D) o'zgarmaydi
+    Answer: B 
+
+11. Agregat qaysi kuchlar ta'sirida harakatlanadi? 
+    A) yetakchi g'ildirakning ilashish kuchi
+    B) ishchi mashina qarshiligi
+    C) yetakchi g'ildirakni burovchi moment
+    D) yetakchi g'ildirakning ilashish kuchi va burovchi moment, ishchi mashina qarshiligiga
+    Answer: D 
+
+12. Mashinaning agrotexnik ko'rsatgichiga uning ------------ kiradi.
+    A) vazni
+    B) ilmoqdagi quvvati
+    C) buriluvchanligi
+    D) ishlov berish chuqurligi
+    Answer: D 
+
+13. Mashinaning energetik ko'rsatgichini belgilang. 
+    A) puxtaligi
+    B) tashqi o'lchamlari
+    C) tortish qarshiligiga
+    D) ish unumi
+    Answer: C 
+
+14. Mashinaning texnik ko'rsatgichiga kirmaydigan ko'rsatgichni belgilang.
+    A) umrboqiyligi
+    B) ta'mirbopligi
+    C) vazni
+    D) ish unumiga
+    Answer: D 
+
+15. Mashinaning ish unumi uning qaysi foydalanish xossasiga kiradi? 
+    A) texnik
+    B) energetik
+    C) agrotexnik
+    D) texnik-iqtisodiy
+    Answer: D 
+
+16. Qaysi ko'rsatgich mashinaning ergonomik ko'rsatgichi hisoblanadi? 
+    A) quvvati
+    B) yoqilgi sarfi
+    C) saqlanuvchanligi
+    D) estetik
+    Answer: D 
+
+17. Mashinaning qarshilik kuchiga ta'sir etuvchi tabiiy iqlim omilini ko'rsating.
+    A) to'g'ri sozlanganligi
+    B) ishlov berish chuqurligi
+    C) tuproqning turi va holatiga
+    D) ishchi qismlar turi va shakli
+    Answer: C 
+
+18. Mashinalar qarshiligini kamaytiruvchi konstruktiv tadbirni ayting.
+    A) texnik servisni o'z vaqtida o'tkazish
+    B) to'g'ri sozlash
+    C) dalalarni tekislash
+    D) osma mashinani qo'llashga
+    Answer: D 
+
+19. Mashinalar qarshiligini kamaytiruvchi foydalanish tadbirini ayting.
+    A) jarayonlarni qo'shib bajarish
+    B) ishchi qismi shaklini o'zgartirish
+    C) begona o'tlarni yo'qotish
+    D) tuproqni yaxshi yetilganda ishlashga
+    Answer: D 
+
+20. Zanjirli traktorning shatasirashi ............. oshmasligi kerak. 
+    A) 10%
+    B) 2%
+    C) 18%
+    D) 3%
+    Answer: D 
+
+21. Uch g'ildirakli traktorlarda uning koleyasi .......... bilan belgilanadi. 
+    A) oldingi g'ildirak diametri
+    B) orqa g'ildiraklar orasidagi masofaga
+    C) orqa g'ildirak diametri
+    D) old va orqa g'ildirak o'qlari orasi
+    Answer: B 
+
+22. Texnologik tezliklar chegarasi .................... tezliklarini belgilaydi. 
+    A) agregatning harakatlanish
+    B) traktorni yurish
+    C) ishni bajarishdagi
+    D) ish mashinasining yurish
+    Answer: C 
+
+23. Agrotexnik talablarni belgilashdan asosiy maqsad .......................dan iborat. 
+    A) mehnat sarfini kamaytirish
+    B) ish unumini oshirish
+    C) mahsulot hajmini ko'paytirish
+    D) yuqori sifatli eng ko'p mahsulot olishdan
+    Answer: D 
+
+24. Agregat tarkibini elektron hisoblash mashinalari bilan hisoblash usulida hisoblar..................bilan bajariladi. 
+    A) jadvallar
+    B) grafiklar
+    C) formulalar
+    D) maxsus dasturlarga
+    Answer: D 
+
+25. Qaysi mashinaning ishchi qismlari harakatni traktorning orqa quvvat olish validan oladi? 
+    A) chigit seyalkasi
+    B) don seyalkasi
+    C) kultivator o'g'it solish qurilmasi
+    D) paxta terish mashinasiga
+    Answer: D 
+
+26. Traktor to'xtashi bilan uning quvvat olish valining harakatini to'xtashi shart bo'lmagan mashina turini ko'rsating.
+    A) mahalliy o'g'it sepkich
+    B) uyuq o'g'it sepkich
+    C) mineral o'g'it sepgich
+    D) paxta terish mashinasida
+    Answer: D 
+
+27. Agregatning to'g'ri tuzilganligi .......... foydalanish koeffitsienti bilan baholanadi. 
+    A) traktor tortish kuchidan
+    B) qamrash kengligidan
+    C) traktor tezligidan
+    D) smena vaqtidan
+    Answer: A 
+
+28. To'rt burchakli dalaning bo'yini belgilovchi ko'rsatgich bu uning ............... dir.
+    A) yuzasini o'lchami
+    B) tekisligi
+    C) notekisligi
+    D) nishoblik yo'nalishida
+    Answer: D 
+
+29. Agregat harakatining asosiy elementlariga uning ............ kiradi.
+    A) kinematik uzunligi va kengligi
+    B) konstruktiv kengligi
+    C) ish va salt yurishiga
+    D) burilish radiusi
+    Answer: C 
+
+30. Mexanizatorning mahoratiga bog'liq bo'lgan asosiy salt yurish bu ................ hisoblanadi.
+    A) daladan chiqish
+    B) daladan dalaga o'tish
+    C) dalaga kirish
+    D) dala oxiri va boshida burilishga
+    Answer: D 
+
+31. Burilishning boshidan oxirigacha agregatning harakat markazi trayektoriyasi bo'yicha o'lchangan masofa burilish .................... deyiladi. 
+    A) yo'lagini eni
+    B) kengligi
+    C) radiusi
+    D) uzunligiga
+    Answer: D 
+
+32. Agregatning qaysi harakatlanish usulida salt yurishlar bo'lmaydi? 
+    A) diagonal
+    B) diagonal-kesishma
+    C) bo'ylama
+    D) doiraviy
+    Answer: D 
+
+33. Qaysi agrotexnik ishni bajarishda agregat diagonal usulda harakatlanishi yuqori samara beradi?
+    A) yer haydash
+    B) ko'chat ekish
+    C) urug' ekish
+    D) yer tekislashda
+    Answer: D 
+
+34. Mehnat unumdorligi deb sarflangan mehnat birligiga to'g'ri keladigan ................ miqdoriga aytiladi.
+    A) urug'
+    B) yoqilgi
+    C) o'g'it
+    D) mahsulotga
+    Answer: D 
+
+35. Mehnat samaradorligini oshirish uchun mexanizatsiyalash yo'nalishida qo'llaniladigan tadbirni ayting.
+    A) qulay ish sharoiti yaratish
+    B) ish unumini oshirish
+    C) malakali kadrlar tayyorlash
+    D) ilg'or texnikalarni qo'llashga
+    Answer: D 
+
+36. Agregatning ish unumi deb vaqt birligi ichida belgilangan ................ bajarilgan ish miqdoriga aytiladi.
+    A) material sarfi bilan
+    B) harajat bilan
+    C) yoqilgi sarfi bilan
+    D) sifatdagi
+    Answer: D 
+
+37. Agregatning ish unumini belgilovchi asosiy ko'rsatgichlarni ayting. 
+    A) quvvati
+    B) yoqilgi sarfi
+    C) tortish qarshiligi
+    D) qamrash kengligi va tezligi
+    Answer: D 
+
+38. Agregatning haqiqiy ish unumini oshirishda ................................dan foydalanish koeffitsienti eng ko'p ta'sir etuvchi ko'rsatgich hisoblanadi. 
+    A) ish tezligi
+    B) qamrash kengligi
+    C) tortish kuchi
+    D) smena vaqtiga
+    Answer: D 
+
+39. Agregatning ish unumini oshirishda mexanizatorning malakasiga bevosita bog'liq bo'lgan ko'rsatgichni ayting. 
+    A) ob-havoni o'zgartirish
+    B) servis xizmatini yaxshilash
+    C) ta'mirlash sifatini oshirish
+    D) salt yurishini kamaytirishga
+    Answer: D 
+
+40. Agregat ish unumini oshirishning tashkiliy xo'jalik zahirasiga kiradigan tadbirni ko'rsating.
+    A) traktor quvvatidan to'la foydalanish
+    B) dalani mashinani ishlashi uchun tayyorlash
+    C) mashinani malakali mexanizatorga topshirish
+    D) mashinalar parkini operativ boshqarishga
+    Answer: D 
+
+41. Agregat ish unumini oshirishning texnikaviy zahirasiga kiradigan tadbirni ko'rsating.
+    A) mashinani rostlash
+    B) yangi mashinani boshqarishga o'rgatish
+    C) mashina turini aniqlash
+    D) detallarni puxtaligini oshirishga
+    Answer: D 
+
+42. Agregat ish unumini oshirishning tashkiliy-texnologik zahirasiga kiradigan tadbirni ko'rsating.
+    A) talab etiladigan texnikalar sonini aniqlash
+    B) traktor quvvatidan to'la foydalanish
+    C) malakaviy texnik xodimlar bilan butlash
+    D) agregatni haraklanish usulini tanlashga
+    Answer: D 
+
+43. Agregat ish unumini oshirishning sotsiologik zahirasiga kiradigan tadbirni ko'rsating. 
+    A) sifatli texnik xizmat ko'rsatish
+    B) agregatni salt yurishini kamaytirish
+    C) mashinani yil davomida ishlashtish
+    D) mexanizator mehnatini muhofazalashga
+    Answer: D 
+
+44. Agregatning ish yurishlar uchun ketgan vaqtini ish va salt yurishlar vaqtlariga nisbatini foizlardagi qiymati bilan aniqlangan miqdor uning ................deyiladi.
+    A) ish unumi
+    B) texnikaviy samaradorligiga
+    C) ish tezligi
+    D) ish yurishlar koeffitsienti
+    Answer: D 
+
+45. Agregatning texnikaviy samaradorligi birinchi navbatda yer maydonining............... bog'liq bo'ladi. 
+    A) zichligiga
+    B) namligiga
+    C) qiyaligiga
+    D) o'lchamiga
+    Answer: D 
+
+46. Agregatning texnik samaradorligini oshirishda mexanizatorga bog'liq omilni ayting.
+    A) ish yurish tezligi
+    B) qamrash kengligi
+    C) dala o'lchami
+    D) salt yurish tezligiga
+    Answer: D 
+
+47. Sug'oriladigan dehqonchilik sharoiti uchun dalaning maqbul shaklini ko'rsating.
+    A) to'rtburchak
+    B) doira
+    C) trapetsiya
+    D) to'g'ri to'rtburchak
+    Answer: D 
+
+48. Agregatning texnikaviy samaradorligini oshirishga ta'sir etuvchi omilni ayting. 
+    A) dalaning eni
+    B) dalaning notekisligi
+    C) dalaning qiyaligi
+    D) dalaning uzunligiga
+    Answer: D 
+
+49. Agregatning texnikaviy samaradorligini oshirishda eng maqbul agregat turini ko'rsating.  26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51
+    A) aralash
+    B) yarim osma
+    C) tirkama
+    D) osmaga
+    Answer: D 
+
+50. O'simliklar qator orasiga ishlov berishda qo'llaniladigan traktor ...............ga ega bo'lishi kerak. 
+    A) katta kuvvat
+    B) yuqori tezlik
+    C) tortish kuchi
+    D) agrotexnik tirqishga
+    Answer: D 
+
+51. Bog'dorchilikda qo'llaniladigan traktorning maqbul o'lchamini ayting.
+    A) keng enli
+    B) baland bo'yli
+    C) kichik enli
+    D) past bo'yli
+    Answer: D 
+
+52. Qishloq xo'jaligi texnikasini ergonomik ko'rsatgichini ayting.
+    A) qamrash kengligi
+    B) quvvati
+    C) buriluv-chanligi
+    D) texnik qulayligi
+    Answer: D 
+
+53. Ushbu ko'rsatgichlardan qaysi biri texnik-estetik muvofiqlikka kiradi? 
+    A) mashina shovqini
+    B) havo muhiti
+    C) mashinani titrashi
+    D) mashina rangi
+    Answer: D 
+
+54. Traktorga o'rnatilgan bort kompyuteri ishlab chiqarish topshirig'ini ko'rsatibgina qolmasdan, uni .............. imkonini beradi.
+    A) hisoblash
+    B) ko'rish
+    C) eshitish
+    D) boshqarishga
+    Answer: D 
+
+55. Bajarilgan ish uchun ketgan yoqilgi sarfi bu traktorning............... paytdagi yoqilgi sarfidir. 
+    A) faqat ishlagan
+    B) dvigateli salt ishlagan
+    C) ishlagan va salt yurgan
+    D) ishlagan, salt yurgan va dvigatelini salt ishlagan
+    Answer: D 
+
+56. Yordamchi ishchi kuchi kerak bo'ladigan ishlab chiqarish jarayonini ko'rsating. 
+    A) chuqur yumshatish
+    B) molalash
+    C) yer haydash
+    D) don ekishga
+    Answer: D 
+
+57. Mashinani rostlash - ishning qaysi sifat ko'rsatgichiga kiradi? 
+    A) agregat harakati
+    B) mashina harakati
+    C) tashqi sharoiti
+    D) texnik holatiga
+    Answer: D 
+
+58. Mashinaning tezligi - ishning qaysi sifat ko'rsatgichiga kiradi? 
+    A) agregat harakati
+    B) texnik holati
+    C) tashqi sharoiti
+    D) mashina harakatiga
+    Answer: D 
+
+59. Namunaviy texnologik kartalar qanday hujjat turiga kiradi? 
+    A) biznes-reja
+    B) hisob-kitob
+    C) texnik
+    D) texnologik
+    Answer: D 
+
+60. Agrotexnik talablarni bajarilishini kim nazorat qiladi? 
+    A) traktorchi
+    B) fermer
+    C) traktorchi-fermer
+    D) agronom-traktorchi
+    Answer: D 
+
+61. Agregat tarkibini aniqlash va uni ishga tayyorlash kimning vazifasiga kiradi? 
+    A) fermer
+    B) agronom
+    C) traktorchi
+    D) texnik mutaxassis traktorchi
+    Answer: D 
+
+62. Jarayon sifatini kim nazorat qiladi? 
+    A) traktorchi
+    B) agronom
+    C) fermer
+    D) agronom-traktorchi
+    Answer: D 
+
+63. Plugning ishchi qismlari to'liq ko'rsatilgan variantini ayting.
+    A) rama, korpus, pichoq, chimqirqar
+    B) rama, chuqurlatgich, chimqirqar, dala taxtasi
+    C) g'ildirak, pichoq korpus, chimqirqar
+    D) pichoq, chimqirqar, korpus, chuqurlatgich, dala taxtasiga
+    Answer: D 
+
+64. Suv va tuproq eroziyasi uchraydigan maydonlar ......... korpusli pluglar bilan haydaladi. 
+    A) disksimon ag'dargichli
+    B) vintsimon ag'dargichli
+    C) silindrsimon ag'dargichli
+    D) ag'dargichsiz
+    Answer: D 
+
+65. PYa-3-35 plugning qamrov kengligi qaysi javobda to'g'ri ko'rsatilgan? 
+    A) 0,90 m
+    B) 1,80 m
+    C) 1,20 m
+    D) 1,05 m
+    Answer: D 
+
+66. Tirmalash bu tuproq ................. saqlab qolish uchun uning yuzasida bir tekis yumshatilgan qatlam hosil qilishdan iborat. 
+    A) donadorligini
+    B) namsizligini
+    C) unumdorligini
+    D) namligini
+    Answer: D 
+
+67. Diskli ishchi qism qo'yilgan tirmalar bilan qanday maydonlarga ishlov berish mumkin emas? 
+    A) bir yillik begona o't bosgan
+    B) tekislanmagan
+    C) haydalmagan
+    D) ko'p yillik begona o't bosganda
+    Answer: D 
+
+68. Tuproqning ostki qatlamidagi namlikni yuqoriga ko'tarilishini ta'minlanish uchun tuproqning yuqori qismini................... molalash deyiladi.
+    A) tekislash
+    B) yumshatish
+    C) surish
+    D) zichlashga
+    Answer: D 
+
+69. M-13 rusumli lazer qurilmali tekislagich lazer niveliri hisobiga yer tekislash sifati ............................... bog'liq bo'lmagan holda eng yuqori aniqlik bilan bajariladi. 
+    A) yerning notekisligiga
+    B) yerning zichligiga
+    C) yerning qiyaligiga
+    D) mexanizatorga
+    Answer: D 
+
+70. Yoppasiga kultivatsiya qilishda tuproqning yuqori qatlami ................... chuqurlikda yumshatiladi. 
+    A) 35-40 sm
+    B) 20-25sm
+    C) 3-5 sm
+    D) 12-16 sm
+    Answer: D 
+
+71. SMX-4 chigit seyalkasida .......... usulda ishlaydigan ekish apparati qo'yilgan. 
+    A) elektrik
+    B) mexanik
+    C) gidravlik
+    D) pnevmatik
+    Answer: D 
+
+72. Faqat bir xil ekin urug'ini ekadigan seyalkalar ............... seyalkalar deyiladi. 
+    A) universal-aralash
+    B) universal
+    C) aralash
+    D) maxsus
+    Answer: D 
+
+73. Bajaradigan ishlov berish usuliga qarab kultivator .............. turdagi ishchi qismlar bilan jihozlanadi. 
+    A) 9
+    B) 5
+    C) 8
+    D) 7
+    Answer: D 
+
+74. Kultivatorga ekinlar qatorlari orasi 60 sm bo'lganda, har qatorga ko'pi bilan ...... ta ishchi qismlar o'rnatiladi. 
+    A) 8
+    B) 9
+    C) 5
+    D) 7
+    Answer: D 
+
+75. Ekinlar qatorlari orasi 90 sm bo'lganda, har qatorga ko'pi bilan nechta ishchi qismlar o'rnatiladi? 
+    A) 11
+    B) 5
+    C) 12
+    D) 9
+    Answer: D 
+
+76. Nima uchun g'o'zani birinchi kultivatsiya qilishda agregat eng past tezlikda yuritish kerak? 
+    A) tuproqni chuqur yumshatish
+    B) qatqaloqni yo'qotish
+    C) begona o'tlarni to'liq yo'qotish
+    D) nihollarni nobud qilmaslik
+    Answer: D 
+
+77. Mamlakatimizda qishloq xo'jaligi mahsulotlarini yetishtirish asosan................. dehqonchilik usulida amalga oshiriladi. 
+    A) lalmi
+    B) suv usti
+    C) suv osti
+    D) sug'oriladigan
+    Answer: D 
+
+78. Eng tejamkor sug'orish usulini ko'rsating.
+    A) sirtidan
+    B) tuproq ostidan
+    C) yomg'irlatib
+    D) tomchilatib
+    Answer: D 
+
+79. Qanday maydonlarga samolyotlar yordamida zaharli moddalar bilan ishlov berish maqsadga muvofiq bo'ladi? 
+    A) tog'li
+    B) yaylov
+    C) cho'l
+    D) tekis
+    Answer: D 
+
+80. Mashina terimiga ajratilgan maydondagi paxta hosildorligi gektariga ........... sentinerdan kam bo'lmasligi kerak. 
+    A) 20
+    B) 27
+    C) 30
+    D) 25
+    Answer: D 
+
+81. Paxta terish mashinasining ish unumi yuqori bo'lishi uchun bir gektar maydondagi g'o'za tuplarining soni .............ming donadan ko'p bo'lishi talab etiladi. 
+    A) 120
+    B) 110
+    C) 60
+    D) 90
+    Answer: D 
+
+82. MX-1,8 rusumli paxta terish mashinasi ................. usulda paxtani terib oladigan mashina turiga kiradi. 
+    A) pnevmatik
+    B) pnevmomexanik
+    C) elektrostatik
+    D) mexanikga
+    Answer: D 
+
+83. Paxta terish apparati barabanlari orasidagi tirqish kengligi ............. ga qarab rostlanadi. 
+    A) g'o'zapoyaning balandligi
+    B) ko'chatlar soni
+    C) paxta hosildorligiga
+    D) paxtani ochilish darajasi
+    Answer: D 
+
+84. Paxta terish apparati harakatni traktorning .................. oladi. 
+    A) yon quvvat olish validan
+    B) g'ildiragidan
+    C) alohida dvigateldan
+    D) orqa quvvat olish validan
+    Answer: D 
+
+85. Vertikal shpindelli paxta terish apparatining har bir barabanida necha dona shpindel mavjud? 
+    A) 16
+    B) 18
+    C) 10
+    D) 12
+    Answer: D 
+
+86. Gorizontal shpindelli paxta terish apparatining har bir barabanida ........... dona shpindellar bo'ladi. 
+    A) 120
+    B) 280
+    C) 260
+    D) 216
+    Answer: D 
+
+87. Paxta terish mashinasidagi ventilyatorli havo tizimi terilgan paxtani .................. uchun xizmat qiladi. 
+    A) kosakdan ajratish
+    B) bargdan tozalash
+    C) hangdan tozalash
+    D) qabul kamerasidan bunkerga tashishga
+    Answer: D 
+
+88. Nima maqsadda shpindellar qabul kamerasi tomoniga o'tganda teskarisiga aylantiriladi? 
+    A) paxtani bargdan tozalash uchun
+    B) paxtani changdan tozalash uchun
+    C) paxtani chanoqdan ajratib olish uchun
+    D) shpindelga o'ralgan paxtani oson ajratib olishga
+    Answer: D 
+
+89. Keys-2126 rusumli g'alla o'rish kombaynida qaysi turdagi yanchish apparati o'rnatilgan? 
+    A) baraban-savagichli
+    B) baraban-taglikli
+    C) baraban-shtiftli
+    D) rotorli
+    Answer: D 
+
+90. Dominator-130 rusumli g'alla o'rish kombayni ............ yanchish apparati bilan jihozlangan. 
+    A) baraban-shtiftli
+    B) baraban-savagichli
+    C) rotorli
+    D) baraban-taglikliga
+    Answer: D 
+
+91. Qanday mevalar to'liq mexnizatsiyalashtirilgan usulda yig'ishtirib olinadi? 
+    A) to'liq saqlanadigan
+    B) qisman saqlanadigan
+    C) qisman oziq-ovqat uchun
+    D) qayta ishlanadigan
+    Answer: D 
+
+92. Makkajo'xoridan silos tayyorlash uchun o'rib olish muddatini ayting.
+    A) doni to'liq pishganda
+    B) bo'yi 1,5 m bo'lganda
+    C) gullaganda
+    D) doni dumbul pishganda
+    Answer: D 
+
+93. Tayyorlangan em-xashakni sifatli va qulay saqlash usulini ayting.
+    A) zichlangan
+    B) senaj
+    C) g'aram
+    D) rulonda
+    Answer: D 
+
+94. Mashina me'yoriy holatining o'zgarishi ..................... deyiladi.
+    A) tuzuklik
+    B) yopiq buzuqlik
+    C) ochiq buzuqlik
+    D) buzuqlik
+    Answer: D 
+
+95. Mashinaning dastlabki ish davrida detallarning sirtlari tez suratlar bilan yeyilish davri - ................... davri deyiladi.
+    A) ta'mirlash
+    B) ishlatish
+    C) saqlash
+    D) chiniqtirishga
+    Answer: D 
+
+96. Buyumning tashish vaqtida o'zining texnik hujjatlarda ko'rsatilgan foydalanish ko'rsatkichlarini saqlash xususiyati - ................ deb ataladi. 
+    A) ta'mirboplik
+    B) umrboqiylik
+    C) puxtalik
+    D) saqlanuvchanlik
+    Answer: D 
+
+97. Mashinani ishga tayyorlash - .................... texnik xizmat ko'rsatishga kiradi. 
+    A) tartibli
+    B) mavsumiy
+    C) maxsus
+    D) har smenadagida
+    Answer: D 
+
+98. Mavsumiy texnik xizmat ko'rsatish necha marta o'tkaziladi? 
+    A) yiliga bir marta
+    B) har oyga
+    C) har kuni
+    D) yiliga ikki marta
+    Answer: D 
+
+99. Metall sirtlarni zanglashdan saqlash ishlari qaysi texnik xizmat ko'rsatish turiga kiradi? 
+    A) maxsus
+    B) tartibli
+    C) mavsumiy
+    D) saqlashdagiga
+    Answer: D 
+
+100. Agar yoqilgi dvigatel silindrlarga erta purkalayotgan bo'lsa, traktor dvigateldan chiqayotgan ishlatilgan gazning rangi ............ rangda bo'ladi.
+    A) qora
+    B) ko'k
+    C) qo'ng'ir
+    D) oq
+    Answer: D 
+
+101. Traktor dvigateldan chiqayotgan ishlatilgan gazning rangi ko'k rangda bo'lsa, .................. ko'rsatadi. 
+    A) yoqilgi to'liq yonmaganligini
+    B) yoqilgi to'liq yonganligini
+    C) yoqilgiga suv aralashganligini
+    D) yoqilgiga moy aralashganligini
+    Answer: D 
+
+102. Agregatlarning ish unumini oshirishning ustuvor yo'nalishlarida inson omilini ta'siri qanday belgilangan?
+    A) yuqori unumli texnikalardan foydalanish
+    B) texnik xizmat ko'rsatish sifatini yaxshilash
+    C) ilg'or texnologiyalarni qo'llash
+    D) mexanizator va texnik xodimlarni malakasini doimiy oshirish
+    Answer: D 
